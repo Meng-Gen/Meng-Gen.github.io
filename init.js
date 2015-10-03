@@ -77,7 +77,7 @@ function initFooter() {
     var rootElement = document.getElementById('footer_div');
     var texts = [
         '以上資料僅供參考，本站不負任何法律責任，投資人若依此以為買賣依據，須自負盈虧之責。資料來源：<a target="_blank" href="http://mops.twse.com.tw/">公開資訊觀測站</a>。',
-        'Facebook: plover at gmail dot com',
+        'Facebook: Meng-Gen Tsai (plover@gmail.com)',
     ];
     for (var i = 0; i < texts.length; i++) {
         var paragraphElement = document.createElement('p');

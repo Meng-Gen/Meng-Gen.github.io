@@ -101,6 +101,11 @@ function makeCapitalStructureChart(stockSymbol, period) {
             "format": "json"
         },
         "categoryField" : "date",
+        "categoryAxis" : {
+            "parseDates" : false,
+            "autoGridCount" : true,
+            "minHorizontalGap" : 180,
+        },
         "titles" : [
             {
                 "size": 15,
@@ -201,6 +206,11 @@ function makeCashFlowChart(stockSymbol, period) {
             "format": "json"
         },
         "categoryField" : "date",
+        "categoryAxis" : {
+            "parseDates" : false,
+            "autoGridCount" : true,
+            "minHorizontalGap" : 180,
+        },
         "titles" : [
             {
                 "size": 15,
@@ -303,6 +313,11 @@ function makeCccChart(stockSymbol, period) {
             "format" : "json"
         },
         "categoryField" : "date",
+        "categoryAxis" : {
+            "parseDates" : false,
+            "autoGridCount" : true,
+            "minHorizontalGap" : 180,
+        },
         "titles" : [
             {
                 "size" : 15,
@@ -476,6 +491,11 @@ function makeDupontChart(stockSymbol, period) {
             "format": "json"
         },
         "categoryField" : "date",
+        "categoryAxis" : {
+            "parseDates" : false,
+            "autoGridCount" : true,
+            "minHorizontalGap" : 180,
+        },
         "titles" : [
             {
                 "size": 15,
@@ -576,6 +596,11 @@ function makeLiquidityChart(stockSymbol, period) {
             "format": "json"
         },
         "categoryField" : "date",
+        "categoryAxis" : {
+            "parseDates" : false,
+            "autoGridCount" : true,
+            "minHorizontalGap" : 180,
+        },
         "titles" : [
             {
                 "size": 15,
@@ -868,6 +893,11 @@ function makeProfitabilityChart(stockSymbol, period) {
             "format": "json"
         },
         "categoryField" : "date",
+        "categoryAxis" : {
+            "parseDates" : false,
+            "autoGridCount" : true,
+            "minHorizontalGap" : 180,
+        },
         "titles" : [
             {
                 "size": 15,
