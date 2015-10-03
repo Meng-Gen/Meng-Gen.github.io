@@ -74,10 +74,16 @@ function initHeader() {
 }
 
 function initFooter() {
-    var paragraphElement = document.createElement('p');
-    paragraphElement.innerHTML = '以上資料僅供參考，本站不負任何法律責任，投資人若依此以為買賣依據，須自負盈虧之責。資料以公開資訊觀測站之內容為準。';
     var rootElement = document.getElementById('footer_div');
-    rootElement.appendChild(paragraphElement);
+    var texts = [
+        '以上資料僅供參考，本站不負任何法律責任，投資人若依此以為買賣依據，須自負盈虧之責。資料來源：<a target="_blank" href="http://mops.twse.com.tw/">公開資訊觀測站</a>。',
+        'Facebook: plover at gmail dot com',
+    ];
+    for (var i = 0; i < texts.length; i++) {
+        var paragraphElement = document.createElement('p');
+        paragraphElement.innerHTML = texts[i];
+        rootElement.appendChild(paragraphElement);
+    }
 }
 
 function init() {

@@ -15,39 +15,56 @@
     width: 100%;
 }
 
-.content-wrapper {
+.content_wrapper {
     float: left;
     width: 100%;
 }
 
 .content {
-    margin-right: 320px;
+    margin-right: 250px;
     clear: both;
     overflow: auto;
     min-height: 600px;
 }
 
-.sidebar {
+.sidebar_wrapper {
     position: relative;
-    width: 320px;
-    margin-left: -320px;
+    /*
+    width: 250px;
+    margin-left: -250px;
+    */float: right;
+    /*
+    overflow: hidden;
+    */
+    background: #2c3e50;
+    
+    background: rgba(44, 62, 80, 0.4);
+    
+    /*min-height: 600px;
+    */
+}
+
+.sidebar {
+    position: fixed;
+    width: 250px;
+    margin-left: -250px;
     float: right;
     overflow: hidden;
     background: #2c3e50;
     background: rgba(44, 62, 80, 0.4);
-    /*color: #eee;*/
-    min-height: 600px;
+    /*min-height: 600px;*/
 }
 
 .footer {
     float: left;
-    width: 100%;
-    background: rgba(0, 0, 0, 0.05);
+    margin-right: 250px;
     padding-left: 20px;
+    background: rgba(0, 0, 0, 0.05);
 }
 
 .chart {
     height: 400px; 
+    width: 80%;    
 }
 
 .header .title {
