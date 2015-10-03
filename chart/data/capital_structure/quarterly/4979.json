@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2013-09-30", 
+        "equity_multiplier": 2.018077239112572, 
+        "liabilities_ratio": 50.447882736156345, 
+        "equity_ratio": 49.55211726384365
+    }, 
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 1.8571428571428572, 
+        "liabilities_ratio": 46.15384615384615, 
+        "equity_ratio": 53.84615384615385
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 1.8347490347490347, 
+        "liabilities_ratio": 45.53872053872054, 
+        "equity_ratio": 54.503367003366996
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 1.892530487804878, 
+        "liabilities_ratio": 47.16069271043093, 
+        "equity_ratio": 52.83930728956907
+    }, 
+    {
+        "true_liabilities_ratio": 3.4746351633078527, 
+        "liabilities_ratio": 46.69501352918438, 
+        "long_term_capital_to_fixed_assets_ratio": 1.4347389558232932, 
+        "equity_multiplier": 1.8759970993473531, 
+        "date": "2014-09-30", 
+        "equity_ratio": 53.30498647081562
+    }, 
+    {
+        "true_liabilities_ratio": 10.869565217391305, 
+        "liabilities_ratio": 47.602004294917684, 
+        "long_term_capital_to_fixed_assets_ratio": 1.5868725868725868, 
+        "equity_multiplier": 1.9084699453551912, 
+        "date": "2014-12-31", 
+        "equity_ratio": 52.39799570508232
+    }, 
+    {
+        "true_liabilities_ratio": 12.359550561797752, 
+        "liabilities_ratio": 47.13114754098361, 
+        "long_term_capital_to_fixed_assets_ratio": 1.5441048034934497, 
+        "equity_multiplier": 1.8914728682170543, 
+        "date": "2015-03-31", 
+        "equity_ratio": 52.86885245901639
+    }, 
+    {
+        "true_liabilities_ratio": 13.731825525040387, 
+        "liabilities_ratio": 53.18021201413428, 
+        "long_term_capital_to_fixed_assets_ratio": 1.6307420494699647, 
+        "equity_multiplier": 2.1345065996228785, 
+        "date": "2015-06-30", 
+        "equity_ratio": 46.849234393404004
+    }
+]

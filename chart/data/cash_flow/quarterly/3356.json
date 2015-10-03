@@ -1,0 +1,65 @@
+[
+    {
+        "net_profit": 150, 
+        "cash_flow_from_financing_activities": -387, 
+        "accumulated_free_cash_flow": -31, 
+        "cash_flow_from_operating_activities": -33, 
+        "date": "2013-09-30", 
+        "free_cash_flow": -31, 
+        "cash_flow_from_investing_activities": 2
+    }, 
+    {
+        "net_profit": 133, 
+        "accumulated_free_cash_flow": -29, 
+        "cash_flow_from_operating_activities": 10, 
+        "date": "2013-12-31", 
+        "free_cash_flow": 2, 
+        "cash_flow_from_investing_activities": -8
+    }, 
+    {
+        "net_profit": 148, 
+        "accumulated_free_cash_flow": 36, 
+        "cash_flow_from_operating_activities": 68, 
+        "date": "2014-03-31", 
+        "free_cash_flow": 65, 
+        "cash_flow_from_investing_activities": -3
+    }, 
+    {
+        "date": "2014-06-30", 
+        "net_profit": 103, 
+        "cash_flow_from_operating_activities": 131
+    }, 
+    {
+        "net_profit": 110, 
+        "cash_flow_from_financing_activities": -453, 
+        "accumulated_free_cash_flow": 94, 
+        "cash_flow_from_operating_activities": 77, 
+        "date": "2014-09-30", 
+        "free_cash_flow": 58, 
+        "cash_flow_from_investing_activities": -19
+    }, 
+    {
+        "net_profit": 127, 
+        "accumulated_free_cash_flow": 330, 
+        "cash_flow_from_operating_activities": 248, 
+        "date": "2014-12-31", 
+        "free_cash_flow": 236, 
+        "cash_flow_from_investing_activities": -12
+    }, 
+    {
+        "net_profit": 78, 
+        "accumulated_free_cash_flow": 427, 
+        "cash_flow_from_operating_activities": 104, 
+        "date": "2015-03-31", 
+        "free_cash_flow": 97, 
+        "cash_flow_from_investing_activities": -7
+    }, 
+    {
+        "net_profit": 83, 
+        "accumulated_free_cash_flow": 546, 
+        "cash_flow_from_operating_activities": 127, 
+        "date": "2015-06-30", 
+        "free_cash_flow": 119, 
+        "cash_flow_from_investing_activities": -8
+    }
+]

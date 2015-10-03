@@ -1,0 +1,40 @@
+[
+    {
+        "date": "2013-09-30", 
+        "net_profit_before_tax_margin": -366.66666666666663, 
+        "operating_profit_margin": -400.0, 
+        "gross_profit_margin": 100.0, 
+        "net_profit_margin": -366.66666666666663
+    }, 
+    {
+        "date": "2013-12-31", 
+        "net_profit_before_tax_margin": 57.692307692307686, 
+        "operating_profit_margin": 42.30769230769231, 
+        "gross_profit_margin": 100.0, 
+        "net_profit_margin": 46.15384615384615
+    }, 
+    {
+        "net_profit_margin": -100.0, 
+        "net_profit_before_tax_margin": -57.14285714285714, 
+        "operating_profit_margin": -142.85714285714286, 
+        "dso": 78.21428571428571, 
+        "date": "2014-12-31", 
+        "gross_profit_margin": 100.0
+    }, 
+    {
+        "net_profit_margin": -1700.0, 
+        "net_profit_before_tax_margin": -1700.0, 
+        "operating_profit_margin": -2000.0, 
+        "dso": 456.25, 
+        "date": "2015-03-31", 
+        "gross_profit_margin": 100.0
+    }, 
+    {
+        "net_profit_margin": -400.0, 
+        "net_profit_before_tax_margin": -400.0, 
+        "operating_profit_margin": -475.0, 
+        "dso": 136.875, 
+        "date": "2015-06-30", 
+        "gross_profit_margin": 100.0
+    }
+]

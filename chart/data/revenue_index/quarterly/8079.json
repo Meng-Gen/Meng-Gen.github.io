@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": 0.03120759837177748, 
+        "gross_profit_index": 0.14029850746268657, 
+        "selling_and_administrative_expenses_index": 0.2263681592039801, 
+        "accounts_receivable_index": 0.009701492537313429
+    }, 
+    {
+        "date": "2014-03-31", 
+        "accounts_payable_index": 0.43626373626373627, 
+        "gross_profit_index": -0.10341880341880341, 
+        "selling_and_administrative_expenses_index": -0.007692307692307693, 
+        "accounts_receivable_index": -0.00402930402930403
+    }, 
+    {
+        "date": "2014-06-30", 
+        "accounts_payable_index": 0.5972762645914397, 
+        "gross_profit_index": -0.19161262429744919, 
+        "selling_and_administrative_expenses_index": -0.20838737570255078, 
+        "accounts_receivable_index": 0.013834846519671415
+    }, 
+    {
+        "date": "2014-09-30", 
+        "accounts_payable_index": -0.39264705882352946, 
+        "gross_profit_index": -0.01116557734204793, 
+        "selling_and_administrative_expenses_index": 0.03264705882352941, 
+        "accounts_receivable_index": 0.017037302725968435
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": -0.009810333551340741, 
+        "gross_profit_index": 0.20901508881390463, 
+        "selling_and_administrative_expenses_index": 0.22071942446043163, 
+        "accounts_receivable_index": -0.017125693384686197
+    }, 
+    {
+        "date": "2015-03-31", 
+        "accounts_payable_index": 0.006361323155216286, 
+        "gross_profit_index": 0.13756699691408153, 
+        "selling_and_administrative_expenses_index": 0.049194232400339266, 
+        "accounts_receivable_index": -0.005162282387830203
+    }, 
+    {
+        "date": "2015-06-30", 
+        "accounts_payable_index": -0.3021276595744681, 
+        "gross_profit_index": -0.2632387706855792, 
+        "selling_and_administrative_expenses_index": -0.09787234042553192, 
+        "accounts_receivable_index": 0.019536566457059173
+    }
+]

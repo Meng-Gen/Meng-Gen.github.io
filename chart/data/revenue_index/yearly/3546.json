@@ -1,0 +1,53 @@
+[
+    {
+        "accounts_payable_index": 0.8115183246073299, 
+        "accounts_receivable_index": -0.5327572626604272, 
+        "gross_profit_index": -0.3020409974265684, 
+        "inventory_index": 0.18848167539267013, 
+        "date": "2008-12-31", 
+        "selling_and_administrative_expenses_index": 0.8968150087260034
+    }, 
+    {
+        "accounts_payable_index": 0.41808229520573803, 
+        "accounts_receivable_index": -0.49022159868832516, 
+        "gross_profit_index": -0.24404481244666143, 
+        "inventory_index": -1.6514156285390715, 
+        "date": "2009-12-31", 
+        "selling_and_administrative_expenses_index": 0.23559735847391572
+    }, 
+    {
+        "date": "2010-12-31", 
+        "accounts_payable_index": 1.270011148272018, 
+        "gross_profit_index": 0.02170331331606057, 
+        "selling_and_administrative_expenses_index": -0.10586549000871259, 
+        "accounts_receivable_index": -0.18825014198270973
+    }, 
+    {
+        "date": "2011-12-31", 
+        "accounts_payable_index": 0.07116424708226587, 
+        "gross_profit_index": -0.007599313625120063, 
+        "selling_and_administrative_expenses_index": 0.2261330502150314, 
+        "accounts_receivable_index": 0.10104376655797281
+    }, 
+    {
+        "date": "2012-12-31", 
+        "accounts_payable_index": -1.8357444243520193, 
+        "gross_profit_index": 0.011838633434156115, 
+        "selling_and_administrative_expenses_index": 0.0822610374281179, 
+        "accounts_receivable_index": -0.0055254169178219625
+    }, 
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": -0.7553033552175779, 
+        "gross_profit_index": 0.03092164564595025, 
+        "selling_and_administrative_expenses_index": 0.07311572606755712, 
+        "accounts_receivable_index": -0.291755468311834
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": 0.32034826317206716, 
+        "gross_profit_index": 0.02880980163360561, 
+        "selling_and_administrative_expenses_index": 0.09823077115875717, 
+        "accounts_receivable_index": -0.184206627030431
+    }
+]

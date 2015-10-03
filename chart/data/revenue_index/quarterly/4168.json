@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": 8.466666666666667, 
+        "gross_profit_index": 0.0
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": -8.183908045977011, 
+        "gross_profit_index": 0.0, 
+        "selling_and_administrative_expenses_index": 0.4505747126436782
+    }, 
+    {
+        "date": "2015-03-31", 
+        "accounts_payable_index": -0.08225108225108235, 
+        "gross_profit_index": 0.0, 
+        "selling_and_administrative_expenses_index": 0.8727272727272728, 
+        "accounts_receivable_index": 0.6060606060606062
+    }, 
+    {
+        "date": "2015-06-30", 
+        "accounts_payable_index": 0.8571428571428571, 
+        "gross_profit_index": 0.0, 
+        "selling_and_administrative_expenses_index": 0.14285714285714285, 
+        "accounts_receivable_index": 0.6
+    }
+]

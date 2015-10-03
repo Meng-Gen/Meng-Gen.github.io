@@ -1,0 +1,50 @@
+[
+    {
+        "accounts_payable_index": 0.18583120703838485, 
+        "accounts_receivable_index": 0.22235068658040197, 
+        "gross_profit_index": -0.5625448613376836, 
+        "inventory_index": 0.3464623871108794, 
+        "date": "2009-12-31", 
+        "selling_and_administrative_expenses_index": 0.5111162899091121
+    }, 
+    {
+        "accounts_payable_index": 0.5786574307648253, 
+        "accounts_receivable_index": -1.0640244487209816, 
+        "gross_profit_index": -1.5355502916848733, 
+        "inventory_index": 0.6005183384801852, 
+        "date": "2010-12-31", 
+        "selling_and_administrative_expenses_index": -0.1725396931734441
+    }, 
+    {
+        "accounts_payable_index": 0.05723029140403768, 
+        "accounts_receivable_index": 0.5062286913191713, 
+        "gross_profit_index": -0.026011168253644912, 
+        "inventory_index": -0.016531165311653107, 
+        "date": "2011-12-31", 
+        "selling_and_administrative_expenses_index": -0.2704994192799071
+    }, 
+    {
+        "accounts_payable_index": -0.14624605045388436, 
+        "accounts_receivable_index": 0.41241626754884053, 
+        "gross_profit_index": 0.129069470422953, 
+        "inventory_index": 0.3055670444205476, 
+        "date": "2012-12-31", 
+        "selling_and_administrative_expenses_index": 0.01872955758306077
+    }, 
+    {
+        "accounts_payable_index": 0.5204829367017936, 
+        "accounts_receivable_index": -0.0949525752853331, 
+        "gross_profit_index": 0.2539201977171474, 
+        "inventory_index": -0.018789555797592068, 
+        "date": "2013-12-31", 
+        "selling_and_administrative_expenses_index": 0.280243428069515
+    }, 
+    {
+        "accounts_payable_index": 0.24003712429499535, 
+        "accounts_receivable_index": -0.16389198518571785, 
+        "gross_profit_index": 0.4031236175780342, 
+        "inventory_index": -0.09094773093857622, 
+        "date": "2014-12-31", 
+        "selling_and_administrative_expenses_index": 0.38894838295138146
+    }
+]

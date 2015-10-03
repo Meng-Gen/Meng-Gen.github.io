@@ -1,0 +1,53 @@
+[
+    {
+        "date": "2008-12-31", 
+        "accounts_payable_index": -0.09714896650035643, 
+        "inventory_index": -0.9245901639344263, 
+        "gross_profit_index": -1.036574884609263, 
+        "accounts_receivable_index": 1.3061790668348046
+    }, 
+    {
+        "date": "2009-12-31", 
+        "accounts_payable_index": 0.8560828467271027, 
+        "inventory_index": -0.8452914798206278, 
+        "gross_profit_index": -0.3605908731205487, 
+        "accounts_receivable_index": 0.27289033836119037
+    }, 
+    {
+        "date": "2010-12-31", 
+        "accounts_payable_index": 0.30869856516461136, 
+        "gross_profit_index": -0.2073690090838603, 
+        "selling_and_administrative_expenses_index": -0.21451795492839087, 
+        "accounts_receivable_index": 0.16838486299068428
+    }, 
+    {
+        "accounts_payable_index": -0.28903875379939203, 
+        "accounts_receivable_index": 0.1766340970350404, 
+        "gross_profit_index": 0.027505411255411283, 
+        "inventory_index": 0.962797619047619, 
+        "date": "2011-12-31", 
+        "selling_and_administrative_expenses_index": 0.020268883415435146
+    }, 
+    {
+        "accounts_payable_index": -0.0012534273403838614, 
+        "accounts_receivable_index": -0.13074677464921367, 
+        "gross_profit_index": 0.08255432930505674, 
+        "inventory_index": -0.45285285285285287, 
+        "date": "2012-12-31", 
+        "selling_and_administrative_expenses_index": 0.1837837837837838
+    }, 
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": 0.08276807125727989, 
+        "gross_profit_index": 0.27165044145381845, 
+        "selling_and_administrative_expenses_index": 0.13627277409935495, 
+        "accounts_receivable_index": -0.22134992735738415
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": 0.17464529549818647, 
+        "gross_profit_index": 0.3128062311379372, 
+        "selling_and_administrative_expenses_index": 0.23040127853556036, 
+        "accounts_receivable_index": -0.18918382259499306
+    }
+]

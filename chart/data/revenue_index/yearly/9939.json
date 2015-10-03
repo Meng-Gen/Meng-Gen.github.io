@@ -1,0 +1,54 @@
+[
+    {
+        "date": "2008-12-31", 
+        "accounts_payable_index": 0.23527009109831193, 
+        "inventory_index": -0.35532063072396536, 
+        "gross_profit_index": -0.5031091069583055, 
+        "accounts_receivable_index": -0.1535289501643459
+    }, 
+    {
+        "date": "2009-12-31", 
+        "accounts_payable_index": 0.2669996757241981, 
+        "inventory_index": -0.28557803427652695, 
+        "gross_profit_index": -0.28687651609496, 
+        "accounts_receivable_index": -0.0769155851999021
+    }, 
+    {
+        "date": "2010-12-31", 
+        "accounts_payable_index": 0.004847893982489138, 
+        "inventory_index": -0.0437949220764875, 
+        "gross_profit_index": 0.05469550687180913, 
+        "accounts_receivable_index": -0.1449844441049088
+    }, 
+    {
+        "date": "2011-12-31", 
+        "accounts_payable_index": -0.15539113970857754, 
+        "inventory_index": -0.06167937529962941, 
+        "gross_profit_index": 0.16950554811772836, 
+        "accounts_receivable_index": 0.09705257321657829
+    }, 
+    {
+        "accounts_payable_index": 0.15182606609116672, 
+        "accounts_receivable_index": -0.05731045071763302, 
+        "gross_profit_index": 0.1613447849945186, 
+        "inventory_index": -0.22510661630000822, 
+        "date": "2012-12-31", 
+        "selling_and_administrative_expenses_index": -0.10626117814545763
+    }, 
+    {
+        "accounts_payable_index": 0.11578926685664415, 
+        "accounts_receivable_index": -0.0900002022758829, 
+        "gross_profit_index": 0.09990896910163312, 
+        "inventory_index": 0.15470022393159719, 
+        "date": "2013-12-31", 
+        "selling_and_administrative_expenses_index": 0.05877671113105348
+    }, 
+    {
+        "accounts_payable_index": 0.08243997716982573, 
+        "accounts_receivable_index": 0.06367855219327036, 
+        "gross_profit_index": 0.09631490872305164, 
+        "inventory_index": 0.015414913945426961, 
+        "date": "2014-12-31", 
+        "selling_and_administrative_expenses_index": 0.11868927726707161
+    }
+]

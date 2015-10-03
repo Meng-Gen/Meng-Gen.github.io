@@ -1,0 +1,67 @@
+[
+    {
+        "date": "2001", 
+        "employee_stock_bonus_ratio": 1.92, 
+        "stock_dividends_from_retained_earnings": 0.7
+    }, 
+    {
+        "date": "2002", 
+        "employee_stock_bonus_ratio": 2.39, 
+        "stock_dividends_from_retained_earnings": 1.25
+    }, 
+    {
+        "employee_stock_bonus_ratio": 3.92, 
+        "cash_dividends": 0.82905, 
+        "stock_dividends": 2.0208, 
+        "stock_dividends_from_retained_earnings": 1.2436, 
+        "stock_dividends_from_capital_reserve": 0.7772, 
+        "date": "2003"
+    }, 
+    {
+        "date": "2004", 
+        "cash_dividends": 0.12318, 
+        "stock_dividends_from_capital_reserve": 0.20529
+    }, 
+    {
+        "employee_stock_bonus_ratio": 2.06, 
+        "cash_dividends": 1.54976, 
+        "stock_dividends": 1.03318, 
+        "stock_dividends_from_retained_earnings": 0.51659, 
+        "stock_dividends_from_capital_reserve": 0.51659, 
+        "date": "2005"
+    }, 
+    {
+        "employee_stock_bonus_ratio": 0.74, 
+        "cash_dividends": 2.48515, 
+        "stock_dividends": 0.7455400000000001, 
+        "stock_dividends_from_retained_earnings": 0.24851, 
+        "stock_dividends_from_capital_reserve": 0.49703, 
+        "date": "2006"
+    }, 
+    {
+        "employee_stock_bonus_ratio": 0.75, 
+        "cash_dividends": 3.81378, 
+        "stock_dividends": 0.5175, 
+        "stock_dividends_from_retained_earnings": 0.25875, 
+        "stock_dividends_from_capital_reserve": 0.25875, 
+        "date": "2007"
+    }, 
+    {
+        "employee_stock_bonus_ratio": 0.16999999999999998, 
+        "cash_dividends": 0.7715902, 
+        "stock_dividends": 0.51439317, 
+        "stock_dividends_from_retained_earnings": 0.36007544, 
+        "stock_dividends_from_capital_reserve": 0.15431773, 
+        "date": "2008"
+    }, 
+    {
+        "date": "2009", 
+        "cash_dividends": 1.64999084, 
+        "stock_dividends_from_capital_reserve": 0.2499999
+    }, 
+    {
+        "date": "2010", 
+        "cash_dividends": 1.65, 
+        "stock_dividends_from_capital_reserve": 0.0999999
+    }
+]

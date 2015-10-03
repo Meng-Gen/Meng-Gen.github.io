@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2002", 
+        "cash_dividends": 0.8
+    }, 
+    {
+        "date": "2003", 
+        "cash_dividends": 2.0
+    }, 
+    {
+        "date": "2004", 
+        "cash_dividends": 2.0, 
+        "stock_dividends_from_capital_reserve": 0.5
+    }, 
+    {
+        "date": "2005", 
+        "cash_dividends": 1.0, 
+        "stock_dividends_from_retained_earnings": 1.0
+    }
+]

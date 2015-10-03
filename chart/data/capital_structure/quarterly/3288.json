@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2013-09-30", 
+        "equity_multiplier": 1.7641509433962264, 
+        "liabilities_ratio": 43.31550802139038, 
+        "equity_ratio": 56.68449197860963
+    }, 
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 1.745819397993311, 
+        "liabilities_ratio": 42.72030651340996, 
+        "equity_ratio": 57.279693486590034
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 1.754325259515571, 
+        "liabilities_ratio": 42.998027613412226, 
+        "equity_ratio": 57.001972386587774
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 1.759322033898305, 
+        "liabilities_ratio": 43.35260115606936, 
+        "equity_ratio": 56.84007707129094
+    }, 
+    {
+        "true_liabilities_ratio": 38.69653767820774, 
+        "liabilities_ratio": 57.605633802816904, 
+        "long_term_capital_to_fixed_assets_ratio": 14.028571428571428, 
+        "equity_multiplier": 2.3588039867109636, 
+        "date": "2014-09-30", 
+        "equity_ratio": 42.394366197183096
+    }, 
+    {
+        "true_liabilities_ratio": 38.276553106212425, 
+        "liabilities_ratio": 57.438016528925615, 
+        "long_term_capital_to_fixed_assets_ratio": 16.129032258064516, 
+        "equity_multiplier": 2.349514563106796, 
+        "date": "2014-12-31", 
+        "equity_ratio": 42.561983471074385
+    }, 
+    {
+        "true_liabilities_ratio": 39.54451345755693, 
+        "liabilities_ratio": 57.826086956521735, 
+        "long_term_capital_to_fixed_assets_ratio": 16.620689655172413, 
+        "equity_multiplier": 2.3711340206185567, 
+        "date": "2015-03-31", 
+        "equity_ratio": 42.173913043478265
+    }, 
+    {
+        "true_liabilities_ratio": 42.01312910284464, 
+        "liabilities_ratio": 59.756097560975604, 
+        "long_term_capital_to_fixed_assets_ratio": 16.88888888888889, 
+        "equity_multiplier": 2.484848484848485, 
+        "date": "2015-06-30", 
+        "equity_ratio": 40.243902439024396
+    }
+]

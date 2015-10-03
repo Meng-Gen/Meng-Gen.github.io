@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": -0.1522576668207736, 
+        "gross_profit_index": 0.019211345412569827, 
+        "selling_and_administrative_expenses_index": 0.11400943580145825, 
+        "accounts_receivable_index": -0.10992076777145408
+    }, 
+    {
+        "date": "2014-03-31", 
+        "accounts_payable_index": 0.47096774193548385, 
+        "gross_profit_index": -0.04185277088502895, 
+        "selling_and_administrative_expenses_index": -0.07324046920821115, 
+        "accounts_receivable_index": -0.0073313782991202316
+    }, 
+    {
+        "date": "2014-06-30", 
+        "accounts_payable_index": 0.2242379817970802, 
+        "gross_profit_index": -0.046461609137797816, 
+        "selling_and_administrative_expenses_index": -0.08861529107767138, 
+        "accounts_receivable_index": -0.017740429505135394
+    }, 
+    {
+        "date": "2014-09-30", 
+        "accounts_payable_index": -0.16276018008196558, 
+        "gross_profit_index": 0.051209623181722105, 
+        "selling_and_administrative_expenses_index": 0.0035616089862134416, 
+        "accounts_receivable_index": 0.009923799397483606
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": 0.015297906602254427, 
+        "gross_profit_index": 0.05489417989417989, 
+        "selling_and_administrative_expenses_index": 0.03439153439153439, 
+        "accounts_receivable_index": -0.06406406406406406
+    }, 
+    {
+        "date": "2015-03-31", 
+        "accounts_payable_index": 0.045592705167173245, 
+        "gross_profit_index": 0.04943160164710038, 
+        "selling_and_administrative_expenses_index": 0.001607099185969324, 
+        "accounts_receivable_index": 0.04570323293727549
+    }, 
+    {
+        "date": "2015-06-30", 
+        "accounts_payable_index": 0.029780564263322887, 
+        "gross_profit_index": 0.007127321740373522, 
+        "selling_and_administrative_expenses_index": -0.019620136455836254, 
+        "accounts_receivable_index": -0.05909237394896434
+    }
+]

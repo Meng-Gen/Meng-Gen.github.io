@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": 0.19682315011402057, 
+        "gross_profit_index": 0.3831306697548736, 
+        "selling_and_administrative_expenses_index": -0.1749195260598589, 
+        "accounts_receivable_index": -0.04707006369426753
+    }, 
+    {
+        "date": "2014-03-31", 
+        "accounts_payable_index": 0.07235663082437277, 
+        "gross_profit_index": 0.1076827177808945, 
+        "selling_and_administrative_expenses_index": 0.273700416155493, 
+        "accounts_receivable_index": -0.35523235336772535
+    }, 
+    {
+        "date": "2014-06-30", 
+        "accounts_payable_index": -0.4428378638904955, 
+        "gross_profit_index": -0.5802005012531328, 
+        "selling_and_administrative_expenses_index": 0.1478696741854637, 
+        "accounts_receivable_index": 0.3235867446393762
+    }, 
+    {
+        "date": "2014-09-30", 
+        "accounts_payable_index": 0.10869565217391303, 
+        "gross_profit_index": 0.2753623188405797, 
+        "selling_and_administrative_expenses_index": -0.044179523141654964, 
+        "accounts_receivable_index": 0.17200610221205187
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": 0.15408598621595015, 
+        "gross_profit_index": 0.38817689530685917, 
+        "selling_and_administrative_expenses_index": -0.11119949417691566, 
+        "accounts_receivable_index": -0.01659304437518222
+    }, 
+    {
+        "date": "2015-03-31", 
+        "accounts_payable_index": -0.29295774647887324, 
+        "gross_profit_index": -1.696551724137931, 
+        "selling_and_administrative_expenses_index": 0.040740740740740716, 
+        "accounts_receivable_index": 0.2392523364485981
+    }, 
+    {
+        "date": "2015-06-30", 
+        "accounts_payable_index": -0.05899470899470899, 
+        "gross_profit_index": -0.5865457294028722, 
+        "selling_and_administrative_expenses_index": -0.0012856648370667134, 
+        "accounts_receivable_index": -0.34885653067471245
+    }
+]

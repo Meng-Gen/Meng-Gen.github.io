@@ -1,0 +1,63 @@
+[
+    {
+        "date": "2013-09-30", 
+        "dso": 15.208333333333332, 
+        "dio": 5201.25, 
+        "operating_profit_margin": -33.33333333333333, 
+        "gross_profit_margin": 83.33333333333334
+    }, 
+    {
+        "dio": 5246.875, 
+        "net_profit_margin": -150.0, 
+        "net_profit_before_tax_margin": -150.0, 
+        "operating_profit_margin": -116.66666666666667, 
+        "dso": 15.208333333333332, 
+        "date": "2013-12-31", 
+        "gross_profit_margin": 100.0
+    }, 
+    {
+        "date": "2014-03-31", 
+        "dio": 5292.5, 
+        "operating_profit_margin": -16.666666666666664, 
+        "gross_profit_margin": 100.0
+    }, 
+    {
+        "date": "2014-06-30", 
+        "dio": 5292.5, 
+        "operating_profit_margin": -14.285714285714285, 
+        "gross_profit_margin": 85.71428571428571
+    }, 
+    {
+        "date": "2014-09-30", 
+        "net_profit_before_tax_margin": 14.285714285714285, 
+        "dio": 5292.5, 
+        "gross_profit_margin": 85.71428571428571, 
+        "net_profit_margin": 14.285714285714285
+    }, 
+    {
+        "dio": 5292.5, 
+        "net_profit_margin": -42.857142857142854, 
+        "net_profit_before_tax_margin": -42.857142857142854, 
+        "operating_profit_margin": -71.42857142857143, 
+        "date": "2014-12-31", 
+        "gross_profit_margin": 85.71428571428571
+    }, 
+    {
+        "dio": 5292.5, 
+        "net_profit_margin": 14.285714285714285, 
+        "net_profit_before_tax_margin": 14.285714285714285, 
+        "operating_profit_margin": 14.285714285714285, 
+        "dso": 13.035714285714285, 
+        "date": "2015-03-31", 
+        "gross_profit_margin": 85.71428571428571
+    }, 
+    {
+        "dio": 5292.5, 
+        "net_profit_margin": -14.285714285714285, 
+        "net_profit_before_tax_margin": -14.285714285714285, 
+        "operating_profit_margin": -14.285714285714285, 
+        "dpo": 91.25, 
+        "date": "2015-06-30", 
+        "gross_profit_margin": 100.0
+    }
+]

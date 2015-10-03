@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": 0.21333333333333335, 
+        "gross_profit_index": -0.01090909090909091, 
+        "selling_and_administrative_expenses_index": 0.21444444444444444, 
+        "accounts_receivable_index": -0.2001492537313433
+    }, 
+    {
+        "date": "2014-03-31", 
+        "accounts_payable_index": -0.2634648370497427, 
+        "gross_profit_index": 0.07770859277708592, 
+        "selling_and_administrative_expenses_index": -0.07042577675489067, 
+        "accounts_receivable_index": -0.09712216504669335
+    }, 
+    {
+        "date": "2014-06-30", 
+        "accounts_payable_index": 0.022833723653395782, 
+        "gross_profit_index": 0.07503152585119797, 
+        "selling_and_administrative_expenses_index": -0.10692052293006847, 
+        "accounts_receivable_index": 0.1057377049180328
+    }, 
+    {
+        "date": "2014-09-30", 
+        "accounts_payable_index": 0.0029878618113912264, 
+        "gross_profit_index": -0.05911047345767574, 
+        "selling_and_administrative_expenses_index": 0.01098039215686275, 
+        "accounts_receivable_index": 0.15738787955787065
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": 0.36579189686924496, 
+        "gross_profit_index": -0.07647267712178646, 
+        "selling_and_administrative_expenses_index": 0.05920810313075507, 
+        "accounts_receivable_index": 0.1669075465444842
+    }, 
+    {
+        "date": "2015-03-31", 
+        "accounts_payable_index": -0.00380564050288823, 
+        "gross_profit_index": 0.1415176488881978, 
+        "selling_and_administrative_expenses_index": 0.12874986183265172, 
+        "accounts_receivable_index": 0.17062688578824034
+    }, 
+    {
+        "date": "2015-06-30", 
+        "accounts_payable_index": -0.10884353741496598, 
+        "gross_profit_index": 0.05132962275819418, 
+        "selling_and_administrative_expenses_index": -0.0692869740488788, 
+        "accounts_receivable_index": 0.033878898093891024
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "accounts_payable_index": 0.02105774638623681, 
+        "accounts_receivable_index": -0.37266851425914055, 
+        "gross_profit_index": -0.09123254452143625, 
+        "inventory_index": -0.5507557778727199, 
+        "date": "2009-12-31", 
+        "selling_and_administrative_expenses_index": -0.20965072165419196
+    }, 
+    {
+        "accounts_payable_index": 0.37507610047910217, 
+        "accounts_receivable_index": -0.264254822227767, 
+        "gross_profit_index": 0.029750826921973672, 
+        "inventory_index": -0.2313972806365584, 
+        "date": "2010-12-31", 
+        "selling_and_administrative_expenses_index": 0.48940094033722437
+    }, 
+    {
+        "accounts_payable_index": -0.14749631758161064, 
+        "accounts_receivable_index": 0.23308020577945948, 
+        "gross_profit_index": 0.02746241403246852, 
+        "inventory_index": -0.0948497756315346, 
+        "date": "2011-12-31", 
+        "selling_and_administrative_expenses_index": 0.2989564181746592
+    }, 
+    {
+        "accounts_payable_index": 0.2854660456771304, 
+        "accounts_receivable_index": 0.23056395533508278, 
+        "gross_profit_index": -0.06133782511474639, 
+        "inventory_index": 0.1654266475765805, 
+        "date": "2012-12-31", 
+        "selling_and_administrative_expenses_index": 0.025333768319614536
+    }, 
+    {
+        "accounts_payable_index": -0.3519812278966651, 
+        "accounts_receivable_index": 0.7231997002931199, 
+        "gross_profit_index": 0.19107195968840762, 
+        "inventory_index": 0.23993022392019525, 
+        "date": "2013-12-31", 
+        "selling_and_administrative_expenses_index": -0.07149419143171254
+    }, 
+    {
+        "accounts_payable_index": 0.3099758770002925, 
+        "accounts_receivable_index": -0.21975827686044255, 
+        "gross_profit_index": 0.04344459104614301, 
+        "inventory_index": 0.5214384566889844, 
+        "date": "2014-12-31", 
+        "selling_and_administrative_expenses_index": 0.21872267366007725
+    }
+]

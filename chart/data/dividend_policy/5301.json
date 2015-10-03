@@ -1,0 +1,37 @@
+[
+    {
+        "date": "1985", 
+        "stock_dividends_from_retained_earnings": 6.6
+    }, 
+    {
+        "date": "1986", 
+        "cash_dividends": 1.0
+    }, 
+    {
+        "date": "1987", 
+        "stock_dividends_from_retained_earnings": 13.5
+    }, 
+    {
+        "date": "1988", 
+        "stock_dividends_from_retained_earnings": 2.4
+    }, 
+    {
+        "date": "1989", 
+        "stock_dividends_from_retained_earnings": 1.2
+    }, 
+    {
+        "date": "1996", 
+        "stock_dividends": 1.5, 
+        "stock_dividends_from_capital_reserve": 0.8, 
+        "stock_dividends_from_retained_earnings": 0.7
+    }, 
+    {
+        "date": "1997", 
+        "stock_dividends_from_capital_reserve": 0.7
+    }, 
+    {
+        "date": "2014", 
+        "cash_dividends": 0.15, 
+        "stock_dividends_from_retained_earnings": 1.25
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2008-12-31", 
+        "accounts_payable_index": 0.9736842105263157, 
+        "gross_profit_index": -0.12401693889897164, 
+        "selling_and_administrative_expenses_index": -0.14035087719298245, 
+        "accounts_receivable_index": -1.1997116077865897
+    }, 
+    {
+        "date": "2009-12-31", 
+        "accounts_payable_index": -0.4266230223677032, 
+        "gross_profit_index": -0.26143128195472387, 
+        "selling_and_administrative_expenses_index": 0.38852778427246515, 
+        "accounts_receivable_index": 0.5986660331203913
+    }, 
+    {
+        "date": "2010-12-31", 
+        "accounts_payable_index": -0.6489859594383776, 
+        "gross_profit_index": 0.6904974353955708, 
+        "selling_and_administrative_expenses_index": -0.07757654056162244, 
+        "accounts_receivable_index": -0.3954584850060669
+    }, 
+    {
+        "date": "2011-12-31", 
+        "accounts_payable_index": 0.15492957746478875, 
+        "gross_profit_index": 0.49262709439481134, 
+        "selling_and_administrative_expenses_index": -0.6525884403410429, 
+        "accounts_receivable_index": -0.6469649756948772
+    }, 
+    {
+        "date": "2012-12-31", 
+        "accounts_payable_index": 0.34938001458789203, 
+        "gross_profit_index": 0.2448755100833876, 
+        "selling_and_administrative_expenses_index": 0.1381821744668343, 
+        "accounts_receivable_index": 0.13656376051250954
+    }, 
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": -0.17023959646910466, 
+        "gross_profit_index": -0.10406312588086937, 
+        "selling_and_administrative_expenses_index": 0.3144256429807326, 
+        "accounts_receivable_index": -0.1811117548822467
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": 0.04472178887155487, 
+        "gross_profit_index": -0.4039961598463938, 
+        "selling_and_administrative_expenses_index": 0.36157291785233636, 
+        "accounts_receivable_index": -0.366560869331325
+    }
+]

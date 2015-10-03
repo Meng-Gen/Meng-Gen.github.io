@@ -1,0 +1,44 @@
+[
+    {
+        "date": "2007-12-31", 
+        "current_ratio": 1.2544861337683524, 
+        "interest_protection_multiples": 15.625
+    }, 
+    {
+        "date": "2008-12-31", 
+        "current_ratio": 1.2791728212703102, 
+        "interest_protection_multiples": 3.014705882352941
+    }, 
+    {
+        "date": "2009-12-31", 
+        "current_ratio": 1.3962594973699591, 
+        "interest_protection_multiples": 12.842105263157896
+    }, 
+    {
+        "date": "2010-12-31", 
+        "current_ratio": 1.4124537607891492, 
+        "interest_protection_multiples": 28.705882352941178
+    }, 
+    {
+        "date": "2011-12-31", 
+        "current_ratio": 1.1959026888604354, 
+        "interest_protection_multiples": 12.969696969696969
+    }, 
+    {
+        "date": "2012-12-31", 
+        "current_ratio": 1.1901469317199653, 
+        "interest_protection_multiples": 11.17142857142857
+    }, 
+    {
+        "date": "2013-12-31", 
+        "current_ratio": 1.1085141903171953, 
+        "quick_ratio": 0.8468280467445742, 
+        "interest_protection_multiples": 1.0344827586206897
+    }, 
+    {
+        "date": "2014-12-31", 
+        "current_ratio": 1.1643426294820718, 
+        "quick_ratio": 0.9402390438247012, 
+        "interest_protection_multiples": -0.9705882352941176
+    }
+]

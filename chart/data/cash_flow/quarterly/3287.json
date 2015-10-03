@@ -1,0 +1,67 @@
+[
+    {
+        "net_profit": 18, 
+        "accumulated_free_cash_flow": 36, 
+        "cash_flow_from_operating_activities": -4, 
+        "date": "2013-09-30", 
+        "free_cash_flow": 36, 
+        "cash_flow_from_investing_activities": 40
+    }, 
+    {
+        "net_profit": -5, 
+        "accumulated_free_cash_flow": 31, 
+        "cash_flow_from_operating_activities": 27, 
+        "date": "2013-12-31", 
+        "free_cash_flow": -5, 
+        "cash_flow_from_investing_activities": -32
+    }, 
+    {
+        "net_profit": -3, 
+        "accumulated_free_cash_flow": 66, 
+        "cash_flow_from_operating_activities": 2, 
+        "date": "2014-03-31", 
+        "free_cash_flow": 35, 
+        "cash_flow_from_investing_activities": 33
+    }, 
+    {
+        "net_profit": -7, 
+        "accumulated_free_cash_flow": -3, 
+        "cash_flow_from_operating_activities": 35, 
+        "date": "2014-06-30", 
+        "free_cash_flow": -69, 
+        "cash_flow_from_investing_activities": -104
+    }, 
+    {
+        "net_profit": 5, 
+        "cash_flow_from_financing_activities": -6, 
+        "accumulated_free_cash_flow": -23, 
+        "cash_flow_from_operating_activities": 13, 
+        "date": "2014-09-30", 
+        "free_cash_flow": -20, 
+        "cash_flow_from_investing_activities": -33
+    }, 
+    {
+        "net_profit": 4, 
+        "accumulated_free_cash_flow": 5, 
+        "cash_flow_from_operating_activities": 13, 
+        "date": "2014-12-31", 
+        "free_cash_flow": 28, 
+        "cash_flow_from_investing_activities": 15
+    }, 
+    {
+        "net_profit": -19, 
+        "accumulated_free_cash_flow": -23, 
+        "cash_flow_from_operating_activities": 1, 
+        "date": "2015-03-31", 
+        "free_cash_flow": -28, 
+        "cash_flow_from_investing_activities": -29
+    }, 
+    {
+        "net_profit": -3, 
+        "accumulated_free_cash_flow": -44, 
+        "cash_flow_from_operating_activities": -12, 
+        "date": "2015-06-30", 
+        "free_cash_flow": -21, 
+        "cash_flow_from_investing_activities": -9
+    }
+]

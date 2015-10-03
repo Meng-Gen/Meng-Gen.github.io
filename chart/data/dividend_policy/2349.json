@@ -1,0 +1,70 @@
+[
+    {
+        "date": "1992", 
+        "stock_dividends": 2.0, 
+        "stock_dividends_from_capital_reserve": 1.0, 
+        "stock_dividends_from_retained_earnings": 1.0
+    }, 
+    {
+        "date": "1993", 
+        "stock_dividends_from_retained_earnings": 1.0
+    }, 
+    {
+        "date": "1994", 
+        "stock_dividends": 2.5, 
+        "stock_dividends_from_capital_reserve": 1.0, 
+        "stock_dividends_from_retained_earnings": 1.5
+    }, 
+    {
+        "date": "1995", 
+        "stock_dividends": 2.0, 
+        "stock_dividends_from_capital_reserve": 0.5, 
+        "stock_dividends_from_retained_earnings": 1.5
+    }, 
+    {
+        "date": "1996", 
+        "employee_stock_bonus_ratio": 0.38999999999999996, 
+        "stock_dividends": 3.0, 
+        "stock_dividends_from_capital_reserve": 1.0, 
+        "stock_dividends_from_retained_earnings": 2.0
+    }, 
+    {
+        "date": "1997", 
+        "employee_stock_bonus_ratio": 1.22, 
+        "stock_dividends": 5.0, 
+        "stock_dividends_from_capital_reserve": 2.0, 
+        "stock_dividends_from_retained_earnings": 3.0
+    }, 
+    {
+        "date": "1998", 
+        "employee_stock_bonus_ratio": 2.27, 
+        "stock_dividends": 5.0, 
+        "stock_dividends_from_capital_reserve": 1.5, 
+        "stock_dividends_from_retained_earnings": 3.5
+    }, 
+    {
+        "date": "1999", 
+        "employee_stock_bonus_ratio": 3.83, 
+        "stock_dividends_from_retained_earnings": 6.5
+    }, 
+    {
+        "date": "2000", 
+        "employee_stock_bonus_ratio": 2.71, 
+        "cash_dividends": 0.5, 
+        "stock_dividends_from_retained_earnings": 3.0
+    }, 
+    {
+        "employee_stock_bonus_ratio": 1.2, 
+        "cash_dividends": 0.1, 
+        "stock_dividends": 2.5, 
+        "stock_dividends_from_retained_earnings": 1.5, 
+        "stock_dividends_from_capital_reserve": 1.0, 
+        "date": "2001"
+    }, 
+    {
+        "date": "2003", 
+        "employee_stock_bonus_ratio": 0.5499999999999999, 
+        "cash_dividends": 0.2555, 
+        "stock_dividends_from_retained_earnings": 0.2555
+    }
+]

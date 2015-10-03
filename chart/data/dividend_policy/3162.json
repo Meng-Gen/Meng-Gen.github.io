@@ -1,0 +1,75 @@
+[
+    {
+        "date": "2000", 
+        "stock_dividends": 0.35, 
+        "stock_dividends_from_capital_reserve": 0.1052, 
+        "stock_dividends_from_retained_earnings": 0.2448
+    }, 
+    {
+        "date": "2001", 
+        "stock_dividends_from_retained_earnings": 0.3283
+    }, 
+    {
+        "date": "2002", 
+        "cash_dividends": 0.15, 
+        "stock_dividends_from_retained_earnings": 0.4403
+    }, 
+    {
+        "date": "2003", 
+        "employee_stock_bonus_ratio": 0.22, 
+        "stock_dividends_from_retained_earnings": 1.06
+    }, 
+    {
+        "date": "2004", 
+        "employee_stock_bonus_ratio": 0.25, 
+        "stock_dividends_from_retained_earnings": 1.20791
+    }, 
+    {
+        "date": "2005", 
+        "employee_stock_bonus_ratio": 0.24, 
+        "stock_dividends_from_retained_earnings": 1.16089
+    }, 
+    {
+        "date": "2006", 
+        "employee_stock_bonus_ratio": 0.11, 
+        "stock_dividends": 1.15312, 
+        "stock_dividends_from_capital_reserve": 0.61272, 
+        "stock_dividends_from_retained_earnings": 0.5404
+    }, 
+    {
+        "date": "2007", 
+        "employee_stock_bonus_ratio": 0.19, 
+        "stock_dividends": 1.02905, 
+        "stock_dividends_from_capital_reserve": 0.13884, 
+        "stock_dividends_from_retained_earnings": 0.89021
+    }, 
+    {
+        "employee_stock_bonus_ratio": 0.26, 
+        "cash_dividends": 0.3, 
+        "stock_dividends": 1.0174715877, 
+        "stock_dividends_from_retained_earnings": 0.8761447297, 
+        "stock_dividends_from_capital_reserve": 0.141326858, 
+        "date": "2008"
+    }, 
+    {
+        "employee_stock_bonus_ratio": 0.06, 
+        "cash_dividends": 0.36, 
+        "stock_dividends": 0.199999958, 
+        "stock_dividends_from_retained_earnings": 0.038908511, 
+        "stock_dividends_from_capital_reserve": 0.161091447, 
+        "date": "2009"
+    }, 
+    {
+        "date": "2010", 
+        "cash_dividends": 0.22051323, 
+        "stock_dividends_from_capital_reserve": 0.2789309809
+    }, 
+    {
+        "date": "2011", 
+        "cash_dividends": 0.1605606
+    }, 
+    {
+        "date": "2012", 
+        "cash_dividends": 0.0648994
+    }
+]

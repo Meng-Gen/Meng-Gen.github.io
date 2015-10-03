@@ -1,0 +1,58 @@
+[
+    {
+        "accounts_payable_index": 0.09514563106796117, 
+        "accounts_receivable_index": -0.2672044545973729, 
+        "gross_profit_index": 0.0048543689320388345, 
+        "inventory_index": 0.0911853041838374, 
+        "date": "2013-12-31", 
+        "selling_and_administrative_expenses_index": -0.0012431920435709218
+    }, 
+    {
+        "accounts_payable_index": 0.037819609851880306, 
+        "accounts_receivable_index": -0.24155234594743835, 
+        "gross_profit_index": -0.043138883943583964, 
+        "inventory_index": 0.07627597393517353, 
+        "date": "2014-03-31", 
+        "selling_and_administrative_expenses_index": -0.02333385417829267
+    }, 
+    {
+        "accounts_payable_index": -0.11453765955373674, 
+        "accounts_receivable_index": 0.04438733743491067, 
+        "gross_profit_index": -0.0720272473750781, 
+        "inventory_index": -0.16923555647754382, 
+        "date": "2014-06-30", 
+        "selling_and_administrative_expenses_index": 0.07345195589134595
+    }, 
+    {
+        "accounts_payable_index": -0.2668145900388518, 
+        "accounts_receivable_index": 0.058028273599334934, 
+        "gross_profit_index": 0.027396118420138643, 
+        "inventory_index": 0.03090241469409151, 
+        "date": "2014-09-30", 
+        "selling_and_administrative_expenses_index": -0.0744222554853784
+    }, 
+    {
+        "accounts_payable_index": -0.1348424222715512, 
+        "accounts_receivable_index": 0.008541946165044386, 
+        "gross_profit_index": -0.009872376740757981, 
+        "inventory_index": 0.06337085566296571, 
+        "date": "2014-12-31", 
+        "selling_and_administrative_expenses_index": 0.04263590950429075
+    }, 
+    {
+        "accounts_payable_index": -0.22729091636654664, 
+        "accounts_receivable_index": -0.04795360767257722, 
+        "gross_profit_index": -0.10928242264647794, 
+        "inventory_index": 0.11044672646128514, 
+        "date": "2015-03-31", 
+        "selling_and_administrative_expenses_index": -0.04335029140596066
+    }, 
+    {
+        "accounts_payable_index": 0.11547326207194716, 
+        "accounts_receivable_index": 0.025863476965941296, 
+        "gross_profit_index": -0.029610814046611728, 
+        "inventory_index": -0.16718848972943623, 
+        "date": "2015-06-30", 
+        "selling_and_administrative_expenses_index": -0.0993362325474937
+    }
+]

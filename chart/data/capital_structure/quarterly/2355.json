@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2013-09-30", 
+        "equity_multiplier": 1.5723388305847077, 
+        "liabilities_ratio": 36.40047675804529, 
+        "equity_ratio": 63.5995232419547
+    }, 
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 1.5786923188196151, 
+        "liabilities_ratio": 36.65643469097906, 
+        "equity_ratio": 63.34356530902093
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 1.5446061703461245, 
+        "liabilities_ratio": 35.25857793408179, 
+        "equity_ratio": 64.74142206591821
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 1.6526152022521856, 
+        "liabilities_ratio": 39.48984623660735, 
+        "equity_ratio": 60.51015376339266
+    }, 
+    {
+        "true_liabilities_ratio": 0.9370543898961091, 
+        "liabilities_ratio": 38.34843114086911, 
+        "long_term_capital_to_fixed_assets_ratio": 1.9703601108033242, 
+        "equity_multiplier": 1.6220187393526406, 
+        "date": "2014-09-30", 
+        "equity_ratio": 61.65156885913089
+    }, 
+    {
+        "true_liabilities_ratio": 1.4107085604360372, 
+        "liabilities_ratio": 38.20130980686606, 
+        "long_term_capital_to_fixed_assets_ratio": 1.9759495334472335, 
+        "equity_multiplier": 1.6181572730340872, 
+        "date": "2014-12-31", 
+        "equity_ratio": 61.79869019313394
+    }, 
+    {
+        "true_liabilities_ratio": 1.3470980737756515, 
+        "liabilities_ratio": 36.71161738839099, 
+        "long_term_capital_to_fixed_assets_ratio": 1.9438102486047693, 
+        "equity_multiplier": 1.580173383627821, 
+        "date": "2015-03-31", 
+        "equity_ratio": 63.28419465616886
+    }, 
+    {
+        "true_liabilities_ratio": 1.795816339955269, 
+        "liabilities_ratio": 40.42129706418975, 
+        "long_term_capital_to_fixed_assets_ratio": 1.864383038329301, 
+        "equity_multiplier": 1.6784521158129175, 
+        "date": "2015-06-30", 
+        "equity_ratio": 59.57870293581025
+    }
+]

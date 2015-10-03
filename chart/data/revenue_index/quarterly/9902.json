@@ -1,0 +1,53 @@
+[
+    {
+        "date": "2013-12-31", 
+        "inventory_index": -13.333333333333334
+    }, 
+    {
+        "accounts_payable_index": -0.05217391304347829, 
+        "accounts_receivable_index": -0.20496894409937882, 
+        "gross_profit_index": -0.15217391304347827, 
+        "inventory_index": 0.6594071860995362, 
+        "date": "2014-03-31", 
+        "selling_and_administrative_expenses_index": 0.31884057971014496
+    }, 
+    {
+        "accounts_payable_index": -0.48739495798319327, 
+        "accounts_receivable_index": -0.4411764705882353, 
+        "gross_profit_index": -0.39215686274509803, 
+        "inventory_index": 0.06422893481717011, 
+        "date": "2014-06-30", 
+        "selling_and_administrative_expenses_index": -0.2745098039215686
+    }, 
+    {
+        "accounts_payable_index": 2.1339285714285716, 
+        "accounts_receivable_index": -2.8958333333333335, 
+        "gross_profit_index": 1.5625, 
+        "inventory_index": -2.518553811659193, 
+        "date": "2014-09-30", 
+        "selling_and_administrative_expenses_index": -2.471590909090909
+    }, 
+    {
+        "accounts_payable_index": 0.5802469135802469, 
+        "accounts_receivable_index": 2.7530864197530867, 
+        "gross_profit_index": 0.3802469135802469, 
+        "inventory_index": -0.5521767381416505, 
+        "date": "2014-12-31", 
+        "selling_and_administrative_expenses_index": -0.30751964085297423
+    }, 
+    {
+        "date": "2015-03-31", 
+        "accounts_payable_index": 0.36280991735537194, 
+        "inventory_index": 0.5012311785350391, 
+        "selling_and_administrative_expenses_index": 0.614113159567705, 
+        "accounts_receivable_index": -0.4183654729109275
+    }, 
+    {
+        "accounts_payable_index": 0.4486166007905139, 
+        "accounts_receivable_index": -0.3804347826086957, 
+        "gross_profit_index": -0.03623188405797101, 
+        "inventory_index": 0.37739811556362807, 
+        "date": "2015-06-30", 
+        "selling_and_administrative_expenses_index": 0.22670807453416147
+    }
+]

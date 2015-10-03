@@ -1,0 +1,50 @@
+[
+    {
+        "accounts_payable_index": 0.024480642676576753, 
+        "accounts_receivable_index": 0.013759671648182113, 
+        "gross_profit_index": -0.15004928165752585, 
+        "inventory_index": 0.011134467575373806, 
+        "date": "2009-12-31", 
+        "selling_and_administrative_expenses_index": -0.04091019951478266
+    }, 
+    {
+        "accounts_payable_index": 0.16556657629477814, 
+        "accounts_receivable_index": -0.20533609580087553, 
+        "gross_profit_index": -0.00687152163100146, 
+        "inventory_index": -0.01216345028655685, 
+        "date": "2010-12-31", 
+        "selling_and_administrative_expenses_index": 0.030533809813706868
+    }, 
+    {
+        "accounts_payable_index": -0.5287674462214567, 
+        "accounts_receivable_index": 0.27274263472069643, 
+        "gross_profit_index": 0.25936856902374716, 
+        "inventory_index": 0.41476773205862516, 
+        "date": "2011-12-31", 
+        "selling_and_administrative_expenses_index": 0.11573595002732562
+    }, 
+    {
+        "accounts_payable_index": -0.6628445677386194, 
+        "accounts_receivable_index": 0.22751001207527288, 
+        "gross_profit_index": 0.0743044238094529, 
+        "inventory_index": 0.1594770150308914, 
+        "date": "2012-12-31", 
+        "selling_and_administrative_expenses_index": -0.25220820095501434
+    }, 
+    {
+        "accounts_payable_index": 0.11683227148181455, 
+        "accounts_receivable_index": -0.2759588415161305, 
+        "gross_profit_index": -0.028626104950720987, 
+        "inventory_index": 0.02626101055221458, 
+        "date": "2013-12-31", 
+        "selling_and_administrative_expenses_index": -0.2663106330949536
+    }, 
+    {
+        "accounts_payable_index": 0.05764217152628567, 
+        "accounts_receivable_index": 0.03249280785031444, 
+        "gross_profit_index": -0.23799827339652016, 
+        "inventory_index": -0.13902754696294847, 
+        "date": "2014-12-31", 
+        "selling_and_administrative_expenses_index": -0.10450413915131898
+    }
+]

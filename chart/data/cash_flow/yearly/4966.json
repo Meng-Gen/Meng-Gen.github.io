@@ -1,0 +1,61 @@
+[
+    {
+        "net_profit": -114, 
+        "accumulated_free_cash_flow": -139, 
+        "cash_flow_from_operating_activities": -91, 
+        "date": "2008-12-31", 
+        "free_cash_flow": -139, 
+        "cash_flow_from_investing_activities": -48
+    }, 
+    {
+        "date": "2009-12-31", 
+        "net_profit": 8, 
+        "cash_flow_from_investing_activities": -10, 
+        "cash_flow_from_financing_activities": 97
+    }, 
+    {
+        "net_profit": 272, 
+        "cash_flow_from_financing_activities": 18, 
+        "accumulated_free_cash_flow": 45, 
+        "cash_flow_from_operating_activities": 209, 
+        "date": "2010-12-31", 
+        "free_cash_flow": 184, 
+        "cash_flow_from_investing_activities": -25
+    }, 
+    {
+        "net_profit": 453, 
+        "cash_flow_from_financing_activities": 996, 
+        "accumulated_free_cash_flow": 382, 
+        "cash_flow_from_operating_activities": 362, 
+        "date": "2011-12-31", 
+        "free_cash_flow": 337, 
+        "cash_flow_from_investing_activities": -25
+    }, 
+    {
+        "net_profit": 1285, 
+        "cash_flow_from_financing_activities": -166, 
+        "accumulated_free_cash_flow": 1564, 
+        "cash_flow_from_operating_activities": 1253, 
+        "date": "2012-12-31", 
+        "free_cash_flow": 1182, 
+        "cash_flow_from_investing_activities": -71
+    }, 
+    {
+        "net_profit": 679, 
+        "cash_flow_from_financing_activities": -150, 
+        "accumulated_free_cash_flow": 2246, 
+        "cash_flow_from_operating_activities": 729, 
+        "date": "2013-12-31", 
+        "free_cash_flow": 682, 
+        "cash_flow_from_investing_activities": -47
+    }, 
+    {
+        "net_profit": 1226, 
+        "cash_flow_from_financing_activities": -173, 
+        "accumulated_free_cash_flow": 3323, 
+        "cash_flow_from_operating_activities": 1146, 
+        "date": "2014-12-31", 
+        "free_cash_flow": 1077, 
+        "cash_flow_from_investing_activities": -69
+    }
+]

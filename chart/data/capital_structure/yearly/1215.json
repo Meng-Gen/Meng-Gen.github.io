@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2007-12-31", 
+        "equity_multiplier": 1.6504123341699535, 
+        "liabilities_ratio": 39.40908103410819, 
+        "equity_ratio": 60.5909189658918
+    }, 
+    {
+        "date": "2008-12-31", 
+        "equity_multiplier": 1.782089552238806, 
+        "liabilities_ratio": 43.88609715242881, 
+        "equity_ratio": 56.11390284757118
+    }, 
+    {
+        "date": "2009-12-31", 
+        "equity_multiplier": 1.6921437271619975, 
+        "liabilities_ratio": 40.90336512506748, 
+        "equity_ratio": 59.09663487493252
+    }, 
+    {
+        "date": "2010-12-31", 
+        "equity_multiplier": 1.757887189292543, 
+        "liabilities_ratio": 43.11352821210061, 
+        "equity_ratio": 56.88647178789938
+    }, 
+    {
+        "true_liabilities_ratio": 0.060024009603841535, 
+        "liabilities_ratio": 48.5320484087853, 
+        "long_term_capital_to_fixed_assets_ratio": 2.271873455264459, 
+        "equity_multiplier": 1.9429566731983454, 
+        "date": "2011-12-31", 
+        "equity_ratio": 51.4679515912147
+    }, 
+    {
+        "true_liabilities_ratio": 9.462738301559792, 
+        "liabilities_ratio": 51.348631239935585, 
+        "long_term_capital_to_fixed_assets_ratio": 2.0901320901320903, 
+        "equity_multiplier": 2.055440628878775, 
+        "date": "2012-12-31", 
+        "equity_ratio": 48.651368760064415
+    }, 
+    {
+        "true_liabilities_ratio": 8.768942618763836, 
+        "liabilities_ratio": 46.68417596848325, 
+        "long_term_capital_to_fixed_assets_ratio": 1.9729036982790187, 
+        "equity_multiplier": 1.8752308639441821, 
+        "date": "2013-12-31", 
+        "equity_ratio": 53.32676734515211
+    }, 
+    {
+        "true_liabilities_ratio": 5.807388288433618, 
+        "liabilities_ratio": 42.864761092150175, 
+        "long_term_capital_to_fixed_assets_ratio": 1.9518607033117106, 
+        "equity_multiplier": 1.7502333395557215, 
+        "date": "2014-12-31", 
+        "equity_ratio": 57.135238907849825
+    }
+]

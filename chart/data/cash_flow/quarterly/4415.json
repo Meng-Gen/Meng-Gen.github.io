@@ -1,0 +1,64 @@
+[
+    {
+        "net_profit": -17, 
+        "cash_flow_from_financing_activities": -1, 
+        "accumulated_free_cash_flow": 7, 
+        "cash_flow_from_operating_activities": 12, 
+        "date": "2013-09-30", 
+        "free_cash_flow": 7, 
+        "cash_flow_from_investing_activities": -5
+    }, 
+    {
+        "net_profit": -8, 
+        "cash_flow_from_financing_activities": -7, 
+        "accumulated_free_cash_flow": 11, 
+        "cash_flow_from_operating_activities": -34, 
+        "date": "2013-12-31", 
+        "free_cash_flow": 4, 
+        "cash_flow_from_investing_activities": 38
+    }, 
+    {
+        "net_profit": -17, 
+        "cash_flow_from_financing_activities": -134, 
+        "accumulated_free_cash_flow": 165, 
+        "cash_flow_from_operating_activities": 4, 
+        "date": "2014-03-31", 
+        "free_cash_flow": 154, 
+        "cash_flow_from_investing_activities": 150
+    }, 
+    {
+        "net_profit": -16, 
+        "cash_flow_from_financing_activities": 10, 
+        "accumulated_free_cash_flow": 149, 
+        "cash_flow_from_operating_activities": -5, 
+        "date": "2014-06-30", 
+        "free_cash_flow": -16, 
+        "cash_flow_from_investing_activities": -11
+    }, 
+    {
+        "date": "2014-09-30", 
+        "net_profit": -39, 
+        "cash_flow_from_operating_activities": -13, 
+        "cash_flow_from_financing_activities": -1
+    }, 
+    {
+        "net_profit": -51, 
+        "cash_flow_from_financing_activities": 1, 
+        "accumulated_free_cash_flow": 163, 
+        "cash_flow_from_operating_activities": 155, 
+        "date": "2014-12-31", 
+        "free_cash_flow": 14, 
+        "cash_flow_from_investing_activities": -141
+    }, 
+    {
+        "date": "2015-03-31", 
+        "net_profit": -9, 
+        "cash_flow_from_operating_activities": -8, 
+        "cash_flow_from_financing_activities": 13
+    }, 
+    {
+        "date": "2015-06-30", 
+        "net_profit": -7, 
+        "cash_flow_from_operating_activities": -10
+    }
+]

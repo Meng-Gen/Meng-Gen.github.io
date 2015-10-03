@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2013-09-30", 
+        "equity_multiplier": 1.6560200407076875, 
+        "liabilities_ratio": 39.61425735085563, 
+        "equity_ratio": 60.38574264914437
+    }, 
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 1.6183890577507598, 
+        "liabilities_ratio": 38.210160578458066, 
+        "equity_ratio": 61.78983942154193
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 1.6894391842680263, 
+        "liabilities_ratio": 40.808760131057085, 
+        "equity_ratio": 59.19123986894292
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 1.6666666666666667, 
+        "liabilities_ratio": 40.008718395815166, 
+        "equity_ratio": 60.0
+    }, 
+    {
+        "true_liabilities_ratio": 20.081396594195137, 
+        "liabilities_ratio": 42.99594522224772, 
+        "long_term_capital_to_fixed_assets_ratio": 2.7872086072922895, 
+        "equity_multiplier": 1.754261172996913, 
+        "date": "2014-09-30", 
+        "equity_ratio": 57.00405477775228
+    }, 
+    {
+        "true_liabilities_ratio": 19.118094272681198, 
+        "liabilities_ratio": 41.37651821862348, 
+        "long_term_capital_to_fixed_assets_ratio": 2.9411764705882355, 
+        "equity_multiplier": 1.7058011049723756, 
+        "date": "2014-12-31", 
+        "equity_ratio": 58.62348178137652
+    }, 
+    {
+        "true_liabilities_ratio": 19.42423931974183, 
+        "liabilities_ratio": 41.640659830584035, 
+        "long_term_capital_to_fixed_assets_ratio": 3.014842300556586, 
+        "equity_multiplier": 1.7135217723453018, 
+        "date": "2015-03-31", 
+        "equity_ratio": 58.359340169415965
+    }, 
+    {
+        "true_liabilities_ratio": 21.25571540091446, 
+        "liabilities_ratio": 46.301515959472844, 
+        "long_term_capital_to_fixed_assets_ratio": 2.891507910881498, 
+        "equity_multiplier": 1.8622499645339765, 
+        "date": "2015-06-30", 
+        "equity_ratio": 53.69848404052716
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2007-12-31", 
+        "equity_multiplier": 2.364972443355787, 
+        "liabilities_ratio": 57.71620921802175, 
+        "equity_ratio": 42.28379078197825
+    }, 
+    {
+        "date": "2008-12-31", 
+        "equity_multiplier": 2.8635540350171063, 
+        "liabilities_ratio": 65.08538899430741, 
+        "equity_ratio": 34.92163890645864
+    }, 
+    {
+        "date": "2009-12-31", 
+        "equity_multiplier": 2.8808743169398907, 
+        "liabilities_ratio": 65.28831562974203, 
+        "equity_ratio": 34.71168437025797
+    }, 
+    {
+        "date": "2010-12-31", 
+        "equity_multiplier": 2.822350489017156, 
+        "liabilities_ratio": 64.56853945350225, 
+        "equity_ratio": 35.43146054649775
+    }, 
+    {
+        "true_liabilities_ratio": 9.51783023606228, 
+        "liabilities_ratio": 63.3350331463539, 
+        "long_term_capital_to_fixed_assets_ratio": 149.96226415094338, 
+        "equity_multiplier": 2.7273991655076495, 
+        "date": "2011-12-31", 
+        "equity_ratio": 36.6649668536461
+    }, 
+    {
+        "true_liabilities_ratio": 16.59672262190248, 
+        "liabilities_ratio": 62.855995000446384, 
+        "long_term_capital_to_fixed_assets_ratio": 188.33962264150944, 
+        "equity_multiplier": 2.6922244922485277, 
+        "date": "2012-12-31", 
+        "equity_ratio": 37.14400499955361
+    }, 
+    {
+        "true_liabilities_ratio": 22.516512549537648, 
+        "liabilities_ratio": 60.697188321758475, 
+        "long_term_capital_to_fixed_assets_ratio": 327.54347826086956, 
+        "equity_multiplier": 2.5443472293703895, 
+        "date": "2013-12-31", 
+        "equity_ratio": 39.302811678241525
+    }, 
+    {
+        "true_liabilities_ratio": 32.4216730431186, 
+        "liabilities_ratio": 70.07138552820655, 
+        "long_term_capital_to_fixed_assets_ratio": 77.98373983739837, 
+        "equity_multiplier": 3.3412839773871292, 
+        "date": "2014-12-31", 
+        "equity_ratio": 29.928614471793445
+    }
+]

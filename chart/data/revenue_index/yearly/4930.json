@@ -1,0 +1,50 @@
+[
+    {
+        "accounts_payable_index": -0.16839057070035274, 
+        "accounts_receivable_index": 0.32099491961849014, 
+        "gross_profit_index": -0.38304564037597544, 
+        "inventory_index": 0.011703252206618109, 
+        "date": "2009-12-31", 
+        "selling_and_administrative_expenses_index": 0.29794578453105136
+    }, 
+    {
+        "accounts_payable_index": 0.022787469881614425, 
+        "accounts_receivable_index": 0.12512403669649674, 
+        "gross_profit_index": -0.1348044480915641, 
+        "inventory_index": -0.25298216259969103, 
+        "date": "2010-12-31", 
+        "selling_and_administrative_expenses_index": 0.0027880990920042675
+    }, 
+    {
+        "accounts_payable_index": -0.0746901164964128, 
+        "accounts_receivable_index": 0.07756513901287525, 
+        "gross_profit_index": 0.05234757186775658, 
+        "inventory_index": 0.14736797450548653, 
+        "date": "2011-12-31", 
+        "selling_and_administrative_expenses_index": 0.13233040453226683
+    }, 
+    {
+        "accounts_payable_index": 0.007220807883145358, 
+        "accounts_receivable_index": -0.013482748474743317, 
+        "gross_profit_index": 0.00014497652379277803, 
+        "inventory_index": 0.009809345352834786, 
+        "date": "2012-12-31", 
+        "selling_and_administrative_expenses_index": 0.15643391418461988
+    }, 
+    {
+        "accounts_payable_index": 0.021892597713382783, 
+        "accounts_receivable_index": -0.17785943227843054, 
+        "gross_profit_index": 0.09920697832149353, 
+        "inventory_index": -0.1788610609319919, 
+        "date": "2013-12-31", 
+        "selling_and_administrative_expenses_index": -0.08921390832842355
+    }, 
+    {
+        "accounts_payable_index": 0.10718592290227882, 
+        "accounts_receivable_index": -0.049106219953760466, 
+        "gross_profit_index": -0.04050851761770625, 
+        "inventory_index": -0.09708564354709348, 
+        "date": "2014-12-31", 
+        "selling_and_administrative_expenses_index": -0.11058794061449162
+    }
+]

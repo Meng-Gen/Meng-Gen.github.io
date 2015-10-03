@@ -1,0 +1,23 @@
+[
+    {
+        "date": "2012-12-31", 
+        "accounts_payable_index": 0.5823973042362003, 
+        "inventory_index": -0.24049043062200956, 
+        "gross_profit_index": 0.04728123018389346, 
+        "accounts_receivable_index": -0.7983937885253675
+    }, 
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": -0.7540095716119996, 
+        "inventory_index": 0.12236951355684714, 
+        "gross_profit_index": 0.04336805076562285, 
+        "accounts_receivable_index": -0.4781766632058142
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": 0.09070993914807302, 
+        "inventory_index": 0.587821986442676, 
+        "gross_profit_index": 0.08057226705796038, 
+        "accounts_receivable_index": 2.8151724137931033
+    }
+]

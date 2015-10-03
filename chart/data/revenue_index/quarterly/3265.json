@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": -0.027649769585253458, 
+        "gross_profit_index": 0.08502628675277471, 
+        "selling_and_administrative_expenses_index": 5.527649769585254, 
+        "accounts_receivable_index": -0.11940905394415831
+    }, 
+    {
+        "date": "2014-03-31", 
+        "accounts_payable_index": 0.24532710280373832, 
+        "gross_profit_index": 0.32244153066443487, 
+        "selling_and_administrative_expenses_index": 1.1213395638629284, 
+        "accounts_receivable_index": 0.08641892894229342
+    }, 
+    {
+        "date": "2014-06-30", 
+        "accounts_payable_index": 0.5101214574898785, 
+        "gross_profit_index": -0.17357683934710444, 
+        "selling_and_administrative_expenses_index": 0.008397061028639963, 
+        "accounts_receivable_index": 0.12393651352461421
+    }, 
+    {
+        "date": "2014-09-30", 
+        "accounts_payable_index": 0.2370860927152318, 
+        "gross_profit_index": -0.3703213146921756, 
+        "selling_and_administrative_expenses_index": -0.2370860927152318, 
+        "accounts_receivable_index": -0.08410702669268749
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": -0.08527131782945736, 
+        "gross_profit_index": 0.05403216475760732, 
+        "selling_and_administrative_expenses_index": 0.1175293823455864, 
+        "accounts_receivable_index": -0.03885699458337388
+    }, 
+    {
+        "date": "2015-03-31", 
+        "accounts_payable_index": -0.19545454545454546, 
+        "gross_profit_index": 0.19428904428904428, 
+        "selling_and_administrative_expenses_index": 0.09868035190615837, 
+        "accounts_receivable_index": 0.0645021645021645
+    }, 
+    {
+        "date": "2015-06-30", 
+        "accounts_payable_index": -0.14732724902216426, 
+        "gross_profit_index": 0.19513850440249325, 
+        "selling_and_administrative_expenses_index": 0.3473272490221643, 
+        "accounts_receivable_index": -0.03419090279301726
+    }
+]

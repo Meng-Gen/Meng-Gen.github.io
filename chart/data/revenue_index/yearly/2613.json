@@ -1,0 +1,52 @@
+[
+    {
+        "date": "2008-12-31", 
+        "accounts_payable_index": 0.10358796296296297, 
+        "gross_profit_index": -0.0370934449792753, 
+        "selling_and_administrative_expenses_index": 0.024252946127946123, 
+        "accounts_receivable_index": -0.20439049214584235
+    }, 
+    {
+        "date": "2009-12-31", 
+        "accounts_payable_index": -0.7902083048151313, 
+        "gross_profit_index": 0.9527008807170051, 
+        "selling_and_administrative_expenses_index": 0.11761923988244512, 
+        "accounts_receivable_index": 0.34977585710456033
+    }, 
+    {
+        "date": "2010-12-31", 
+        "accounts_payable_index": -0.3725639221205723, 
+        "gross_profit_index": -0.01140420347243376, 
+        "selling_and_administrative_expenses_index": -0.2831231597116458, 
+        "accounts_receivable_index": -0.14846677132391417
+    }, 
+    {
+        "date": "2011-12-31", 
+        "accounts_payable_index": 0.1642046670948405, 
+        "gross_profit_index": -0.4956081706539403, 
+        "selling_and_administrative_expenses_index": -0.19023069312086652, 
+        "accounts_receivable_index": -0.0889323359401564
+    }, 
+    {
+        "date": "2012-12-31", 
+        "accounts_payable_index": 0.06664955439081677, 
+        "gross_profit_index": 0.19650628095711112, 
+        "selling_and_administrative_expenses_index": -0.014354301391338427, 
+        "accounts_receivable_index": 0.19332528020755152
+    }, 
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": -0.3350509955161118, 
+        "gross_profit_index": -0.08203688203688203, 
+        "selling_and_administrative_expenses_index": 0.06833939007852052, 
+        "accounts_receivable_index": 0.08674288674288674
+    }, 
+    {
+        "accounts_payable_index": 0.11812072370204892, 
+        "accounts_receivable_index": -0.049971066148417856, 
+        "gross_profit_index": -0.2549147611254691, 
+        "inventory_index": 0.2804649761520312, 
+        "date": "2014-12-31", 
+        "selling_and_administrative_expenses_index": 0.029854018327829412
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": 0.8865853658536584, 
+        "gross_profit_index": -0.09284725825981666, 
+        "selling_and_administrative_expenses_index": -0.4865853658536585, 
+        "accounts_receivable_index": -0.27638128422100544
+    }, 
+    {
+        "date": "2014-03-31", 
+        "accounts_payable_index": 0.4259047619047619, 
+        "gross_profit_index": -0.01906010928961749, 
+        "selling_and_administrative_expenses_index": -0.3205656565656566, 
+        "accounts_receivable_index": -0.15976988155668356
+    }, 
+    {
+        "date": "2014-06-30", 
+        "accounts_payable_index": -0.2537688442211055, 
+        "gross_profit_index": 0.0037654023542369464, 
+        "selling_and_administrative_expenses_index": 0.20860755389852487, 
+        "accounts_receivable_index": 0.047157273973171626
+    }, 
+    {
+        "date": "2014-09-30", 
+        "accounts_payable_index": -1.2183308494783904, 
+        "gross_profit_index": -0.015716470393423165, 
+        "selling_and_administrative_expenses_index": 0.5481180835209436, 
+        "accounts_receivable_index": 0.10991660999618985
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": 0.4547062291216349, 
+        "gross_profit_index": 0.008170728693918904, 
+        "selling_and_administrative_expenses_index": 0.24480116004092667, 
+        "accounts_receivable_index": 0.043503082458150225
+    }, 
+    {
+        "date": "2015-03-31", 
+        "accounts_payable_index": 0.15335349581924923, 
+        "gross_profit_index": 0.005650452593817967, 
+        "selling_and_administrative_expenses_index": -0.09687509050363463, 
+        "accounts_receivable_index": -0.0712194136851671
+    }, 
+    {
+        "date": "2015-06-30", 
+        "accounts_payable_index": -0.10240963855421686, 
+        "gross_profit_index": 0.014945733346609577, 
+        "selling_and_administrative_expenses_index": 0.38812392426850256, 
+        "accounts_receivable_index": -0.07912882298424467
+    }
+]

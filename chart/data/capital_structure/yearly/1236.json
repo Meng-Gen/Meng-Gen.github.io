@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2007-12-31", 
+        "equity_multiplier": 1.670807453416149, 
+        "liabilities_ratio": 40.14869888475837, 
+        "equity_ratio": 59.85130111524164
+    }, 
+    {
+        "date": "2008-12-31", 
+        "equity_multiplier": 1.6101413133832085, 
+        "liabilities_ratio": 37.945276200309756, 
+        "equity_ratio": 62.106350025813114
+    }, 
+    {
+        "date": "2009-12-31", 
+        "equity_multiplier": 1.5308544303797469, 
+        "liabilities_ratio": 34.67700258397933, 
+        "equity_ratio": 65.32299741602067
+    }, 
+    {
+        "date": "2010-12-31", 
+        "equity_multiplier": 1.7315589353612166, 
+        "liabilities_ratio": 42.24857268335529, 
+        "equity_ratio": 57.75142731664471
+    }, 
+    {
+        "true_liabilities_ratio": 15.24390243902439, 
+        "liabilities_ratio": 50.01741553465692, 
+        "long_term_capital_to_fixed_assets_ratio": 1.0193889541715628, 
+        "equity_multiplier": 2.0006968641114984, 
+        "date": "2011-12-31", 
+        "equity_ratio": 49.98258446534309
+    }, 
+    {
+        "true_liabilities_ratio": 22.573363431151243, 
+        "liabilities_ratio": 49.50188938509103, 
+        "long_term_capital_to_fixed_assets_ratio": 1.0812294182217344, 
+        "equity_multiplier": 1.9802721088435373, 
+        "date": "2012-12-31", 
+        "equity_ratio": 50.49811061490897
+    }, 
+    {
+        "true_liabilities_ratio": 13.843266072266541, 
+        "liabilities_ratio": 46.36081407381856, 
+        "long_term_capital_to_fixed_assets_ratio": 1.088875809299588, 
+        "equity_multiplier": 1.8643086816720258, 
+        "date": "2013-12-31", 
+        "equity_ratio": 53.63918592618144
+    }, 
+    {
+        "true_liabilities_ratio": 15.451664025356576, 
+        "liabilities_ratio": 41.910147659440774, 
+        "long_term_capital_to_fixed_assets_ratio": 1.2303463441451348, 
+        "equity_multiplier": 1.7224025974025974, 
+        "date": "2014-12-31", 
+        "equity_ratio": 58.05843543826579
+    }
+]

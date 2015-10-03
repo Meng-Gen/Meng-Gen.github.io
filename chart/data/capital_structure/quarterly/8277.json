@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2013-09-30", 
+        "equity_multiplier": 1.1009796533534288, 
+        "liabilities_ratio": 9.17180013689254, 
+        "equity_ratio": 90.82819986310746
+    }, 
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 1.1157270029673592, 
+        "liabilities_ratio": 10.438829787234043, 
+        "equity_ratio": 89.62765957446808
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 1.0590405904059041, 
+        "liabilities_ratio": 5.505226480836237, 
+        "equity_ratio": 94.42508710801394
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 1.2217987804878048, 
+        "liabilities_ratio": 18.15346225826575, 
+        "equity_ratio": 81.84653774173425
+    }, 
+    {
+        "true_liabilities_ratio": 17.42331288343558, 
+        "liabilities_ratio": 25.15440763615946, 
+        "long_term_capital_to_fixed_assets_ratio": 5.39, 
+        "equity_multiplier": 1.3360840210052514, 
+        "date": "2014-09-30", 
+        "equity_ratio": 74.84559236384054
+    }, 
+    {
+        "true_liabilities_ratio": 18.451612903225804, 
+        "liabilities_ratio": 22.892307692307693, 
+        "long_term_capital_to_fixed_assets_ratio": 5.150501672240803, 
+        "equity_multiplier": 1.29585326953748, 
+        "date": "2014-12-31", 
+        "equity_ratio": 77.16923076923077
+    }, 
+    {
+        "true_liabilities_ratio": 19.497282608695652, 
+        "liabilities_ratio": 22.991508817766164, 
+        "long_term_capital_to_fixed_assets_ratio": 4.936026936026936, 
+        "equity_multiplier": 1.2985581000848176, 
+        "date": "2015-03-31", 
+        "equity_ratio": 77.00849118223383
+    }, 
+    {
+        "true_liabilities_ratio": 20.055710306406684, 
+        "liabilities_ratio": 24.50462351387054, 
+        "long_term_capital_to_fixed_assets_ratio": 4.83445945945946, 
+        "equity_multiplier": 1.3245844269466316, 
+        "date": "2015-06-30", 
+        "equity_ratio": 75.49537648612946
+    }
+]

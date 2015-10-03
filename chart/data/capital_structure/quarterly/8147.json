@@ -1,0 +1,54 @@
+[
+    {
+        "date": "2013-09-30", 
+        "equity_multiplier": 1.5962145110410095, 
+        "liabilities_ratio": 37.351778656126484, 
+        "equity_ratio": 62.64822134387352
+    }, 
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 1.7370030581039755, 
+        "liabilities_ratio": 42.42957746478873, 
+        "equity_ratio": 57.570422535211264
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 1.7072463768115942, 
+        "liabilities_ratio": 41.25636672325976, 
+        "equity_ratio": 58.57385398981324
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 1.6598837209302326, 
+        "liabilities_ratio": 39.754816112084065, 
+        "equity_ratio": 60.24518388791593
+    }, 
+    {
+        "date": "2014-09-30", 
+        "equity_multiplier": 1.6612021857923498, 
+        "liabilities_ratio": 39.80263157894737, 
+        "equity_ratio": 60.19736842105263
+    }, 
+    {
+        "date": "2014-12-31", 
+        "equity_multiplier": 1.6666666666666667, 
+        "liabilities_ratio": 40.15625, 
+        "equity_ratio": 60.0
+    }, 
+    {
+        "true_liabilities_ratio": 31.343283582089555, 
+        "liabilities_ratio": 53.16742081447964, 
+        "long_term_capital_to_fixed_assets_ratio": 3.5470588235294116, 
+        "equity_multiplier": 2.135265700483092, 
+        "date": "2015-03-31", 
+        "equity_ratio": 46.83257918552036
+    }, 
+    {
+        "true_liabilities_ratio": 32.81519861830743, 
+        "liabilities_ratio": 58.28819068255689, 
+        "long_term_capital_to_fixed_assets_ratio": 2.1062271062271063, 
+        "equity_multiplier": 2.397402597402597, 
+        "date": "2015-06-30", 
+        "equity_ratio": 41.71180931744312
+    }
+]

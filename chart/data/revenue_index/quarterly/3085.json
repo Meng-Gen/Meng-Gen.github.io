@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": 0.27685950413223137, 
+        "gross_profit_index": -0.6714163579367342, 
+        "selling_and_administrative_expenses_index": 0.2929079377282337, 
+        "accounts_receivable_index": 0.16758494031221305
+    }, 
+    {
+        "date": "2014-03-31", 
+        "accounts_payable_index": -0.060637381567614126, 
+        "gross_profit_index": -0.027251883393383552, 
+        "selling_and_administrative_expenses_index": 5.14261823882937, 
+        "accounts_receivable_index": 0.4262458471760797
+    }, 
+    {
+        "date": "2014-06-30", 
+        "accounts_payable_index": -0.0867840710772648, 
+        "gross_profit_index": 0.3071553228621291, 
+        "selling_and_administrative_expenses_index": -0.7389013546081609, 
+        "accounts_receivable_index": -0.3278592566095412
+    }, 
+    {
+        "date": "2014-09-30", 
+        "accounts_payable_index": -0.2150782361308677, 
+        "gross_profit_index": 0.4130671506352087, 
+        "selling_and_administrative_expenses_index": -0.6598555211558308, 
+        "accounts_receivable_index": 0.04210526315789473
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": -0.20059752454118648, 
+        "gross_profit_index": 0.12294372294372295, 
+        "selling_and_administrative_expenses_index": -0.42074592074592077, 
+        "accounts_receivable_index": 0.19393939393939394
+    }, 
+    {
+        "date": "2015-03-31", 
+        "accounts_payable_index": -0.23139435414884518, 
+        "gross_profit_index": 0.05431993156544054, 
+        "selling_and_administrative_expenses_index": 0.05072208524128216, 
+        "accounts_receivable_index": 0.1924333151878062
+    }, 
+    {
+        "date": "2015-06-30", 
+        "accounts_payable_index": -0.09312169312169312, 
+        "gross_profit_index": -0.030784030784030775, 
+        "selling_and_administrative_expenses_index": -0.006512006512006507, 
+        "accounts_receivable_index": 0.1775937428111341
+    }
+]

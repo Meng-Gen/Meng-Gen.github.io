@@ -1,0 +1,64 @@
+[
+    {
+        "net_profit": 34, 
+        "cash_flow_from_financing_activities": -98, 
+        "accumulated_free_cash_flow": 38, 
+        "cash_flow_from_operating_activities": 41, 
+        "date": "2013-09-30", 
+        "free_cash_flow": 38, 
+        "cash_flow_from_investing_activities": -3
+    }, 
+    {
+        "net_profit": 55, 
+        "cash_flow_from_financing_activities": 3, 
+        "accumulated_free_cash_flow": 88, 
+        "cash_flow_from_operating_activities": 48, 
+        "date": "2013-12-31", 
+        "free_cash_flow": 50, 
+        "cash_flow_from_investing_activities": 2
+    }, 
+    {
+        "date": "2014-03-31", 
+        "net_profit": 42, 
+        "cash_flow_from_operating_activities": 89, 
+        "cash_flow_from_financing_activities": 10
+    }, 
+    {
+        "date": "2014-06-30", 
+        "net_profit": 51, 
+        "cash_flow_from_operating_activities": 31, 
+        "cash_flow_from_financing_activities": 12
+    }, 
+    {
+        "net_profit": 37, 
+        "cash_flow_from_financing_activities": -113, 
+        "accumulated_free_cash_flow": 62, 
+        "cash_flow_from_operating_activities": -25, 
+        "date": "2014-09-30", 
+        "free_cash_flow": -26, 
+        "cash_flow_from_investing_activities": -1
+    }, 
+    {
+        "net_profit": 56, 
+        "accumulated_free_cash_flow": 36, 
+        "cash_flow_from_operating_activities": -25, 
+        "date": "2014-12-31", 
+        "free_cash_flow": -26, 
+        "cash_flow_from_investing_activities": -1
+    }, 
+    {
+        "date": "2015-03-31", 
+        "net_profit": 31, 
+        "cash_flow_from_operating_activities": 46, 
+        "cash_flow_from_financing_activities": 1
+    }, 
+    {
+        "net_profit": 81, 
+        "cash_flow_from_financing_activities": 64, 
+        "accumulated_free_cash_flow": 66, 
+        "cash_flow_from_operating_activities": 82, 
+        "date": "2015-06-30", 
+        "free_cash_flow": 30, 
+        "cash_flow_from_investing_activities": -52
+    }
+]

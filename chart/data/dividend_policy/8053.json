@@ -1,0 +1,41 @@
+[
+    {
+        "date": "1996", 
+        "stock_dividends": 3.0, 
+        "stock_dividends_from_capital_reserve": 0.5, 
+        "stock_dividends_from_retained_earnings": 2.5
+    }, 
+    {
+        "date": "1997", 
+        "stock_dividends_from_capital_reserve": 0.5
+    }, 
+    {
+        "date": "1998", 
+        "stock_dividends": 7.0, 
+        "stock_dividends_from_capital_reserve": 1.03, 
+        "stock_dividends_from_retained_earnings": 5.97
+    }, 
+    {
+        "date": "1999", 
+        "stock_dividends": 9.0, 
+        "stock_dividends_from_capital_reserve": 0.1, 
+        "stock_dividends_from_retained_earnings": 8.9
+    }, 
+    {
+        "date": "2002", 
+        "cash_dividends": 1.0
+    }, 
+    {
+        "date": "2003", 
+        "cash_dividends": 1.0
+    }, 
+    {
+        "date": "2004", 
+        "cash_dividends": 1.0, 
+        "stock_dividends_from_capital_reserve": 1.0
+    }, 
+    {
+        "date": "2007", 
+        "stock_dividends_from_capital_reserve": 1.0
+    }
+]

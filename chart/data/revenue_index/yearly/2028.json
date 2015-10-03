@@ -1,0 +1,50 @@
+[
+    {
+        "accounts_payable_index": 0.2949756744803185, 
+        "accounts_receivable_index": 0.1229355179361126, 
+        "gross_profit_index": -1.0512082785529497, 
+        "inventory_index": -0.4092736406650771, 
+        "date": "2006-12-31", 
+        "selling_and_administrative_expenses_index": 0.18539950589486195
+    }, 
+    {
+        "accounts_payable_index": 0.2240039749843619, 
+        "accounts_receivable_index": -0.09980132287952312, 
+        "gross_profit_index": -0.3312985104308063, 
+        "inventory_index": -0.13937592762273235, 
+        "date": "2007-12-31", 
+        "selling_and_administrative_expenses_index": 0.1507516704487355
+    }, 
+    {
+        "accounts_payable_index": 0.36039367765612107, 
+        "accounts_receivable_index": -1.2448719991344783, 
+        "gross_profit_index": 1.6584804788174403, 
+        "inventory_index": -0.9173933111374748, 
+        "date": "2008-12-31", 
+        "selling_and_administrative_expenses_index": 0.06135482372462919
+    }, 
+    {
+        "accounts_payable_index": -0.294865274459942, 
+        "accounts_receivable_index": 0.2817023956720632, 
+        "gross_profit_index": -1.0227771761964943, 
+        "inventory_index": 0.10091700701240658, 
+        "date": "2009-12-31", 
+        "selling_and_administrative_expenses_index": 0.2154272157115384
+    }, 
+    {
+        "accounts_payable_index": -1.4474885639815094, 
+        "accounts_receivable_index": 0.1448597005606692, 
+        "gross_profit_index": 1.686590995659848, 
+        "inventory_index": 0.6131506064073355, 
+        "date": "2013-12-31", 
+        "selling_and_administrative_expenses_index": -0.2935529716610947
+    }, 
+    {
+        "accounts_payable_index": -0.029651531268415826, 
+        "accounts_receivable_index": -0.07659232780611747, 
+        "gross_profit_index": 2.429652416283544, 
+        "inventory_index": -0.44798344201332363, 
+        "date": "2014-12-31", 
+        "selling_and_administrative_expenses_index": -0.17999143039386103
+    }
+]

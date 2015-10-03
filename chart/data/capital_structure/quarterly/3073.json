@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2013-09-30", 
+        "equity_multiplier": 1.9712918660287082, 
+        "liabilities_ratio": 49.271844660194176, 
+        "equity_ratio": 50.728155339805824
+    }, 
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 1.2941176470588236, 
+        "liabilities_ratio": 23.106060606060606, 
+        "equity_ratio": 77.27272727272727
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 1.1346633416458853, 
+        "liabilities_ratio": 12.087912087912088, 
+        "equity_ratio": 88.13186813186813
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 1.179746835443038, 
+        "liabilities_ratio": 15.236051502145923, 
+        "equity_ratio": 84.76394849785407
+    }, 
+    {
+        "true_liabilities_ratio": 32.477064220183486, 
+        "liabilities_ratio": 42.28295819935691, 
+        "long_term_capital_to_fixed_assets_ratio": 2.2851063829787233, 
+        "equity_multiplier": 1.7277777777777779, 
+        "date": "2014-09-30", 
+        "equity_ratio": 57.87781350482315
+    }, 
+    {
+        "true_liabilities_ratio": 33.14393939393939, 
+        "liabilities_ratio": 42.07011686143572, 
+        "long_term_capital_to_fixed_assets_ratio": 2.240343347639485, 
+        "equity_multiplier": 1.7262247838616716, 
+        "date": "2014-12-31", 
+        "equity_ratio": 57.92988313856428
+    }, 
+    {
+        "true_liabilities_ratio": 32.82442748091603, 
+        "liabilities_ratio": 42.45439469320066, 
+        "long_term_capital_to_fixed_assets_ratio": 2.227467811158798, 
+        "equity_multiplier": 1.7377521613832854, 
+        "date": "2015-03-31", 
+        "equity_ratio": 57.54560530679934
+    }, 
+    {
+        "true_liabilities_ratio": 33.46456692913386, 
+        "liabilities_ratio": 42.241379310344826, 
+        "long_term_capital_to_fixed_assets_ratio": 2.167381974248927, 
+        "equity_multiplier": 1.7313432835820894, 
+        "date": "2015-06-30", 
+        "equity_ratio": 57.758620689655174
+    }
+]

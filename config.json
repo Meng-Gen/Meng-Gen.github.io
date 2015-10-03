@@ -1,0 +1,126 @@
+{
+    "sections" : [
+        {
+            "title" : "經營能力",
+            "contents" : [
+                {
+                    "title" : "杜邦分析",
+                    "charts" : [ 
+                        "dupont_yearly_chart", 
+                        "dupont_quarterly_chart"
+                    ]
+                }
+            ]
+        },
+        {
+            "title" : "財務結構",
+            "contents" : [
+                {
+                    "title" : "資產負債表分析重點",
+                    "charts" : [
+                        "capital_structure_yearly_chart",
+                        "capital_structure_quarterly_chart"
+                    ]
+                },
+                {
+                    "title" : "股本形成過程及比例",
+                    "charts" : [
+                        "capital_increase_history_chart"
+                    ]
+                }
+            ]
+        },
+        {
+            "title" : "償債能力",
+            "contents" : [
+                {
+                    "charts" : [
+                        "liquidity_yearly_chart",
+                        "liquidity_quarterly_chart"
+                    ]
+                }
+            ]
+        },
+        {
+            "title" : "獲利能力",
+            "contents" : [
+                {
+                    "title" : "損益表分析重點",
+                    "charts" : [
+                        "profitability_yearly_chart",
+                        "profitability_quarterly_chart"
+                    ]
+                },
+                {
+                    "title" : "每月營業收入分析重點",
+                    "charts" : [
+                        "operating_revenue_chart"
+                    ]
+                },
+                {
+                    "title" : "五大盈餘指標",
+                    "charts" : [
+                        "revenue_index_yearly_chart",
+                        "revenue_index_quarterly_chart"
+                    ]
+                },
+                {
+                    "title" : "現金轉換循環",
+                    "charts" : [
+                        "ccc_yearly_chart",
+                        "ccc_quarterly_chart"
+                    ]
+                }
+            ]
+        },
+        {
+            "title" : "現金流量",
+            "contents" : [
+                {
+                    "title" : "現金流量表分析重點",
+                    "charts" : [
+                        "cash_flow_yearly_chart",
+                        "cash_flow_quarterly_chart"
+                    ]
+                },
+                {
+                    "title" : "長期投資占總資產比率",
+                    "charts" : [
+                        "long_term_investments_to_assets_ratio_yearly_chart",
+                        "long_term_investments_to_assets_ratio_quarterly_chart"
+                    ]
+                },
+                {
+                    "title" : "會計盈餘與營運活動之現金流量之差異分析",
+                    "charts" : [
+                        "net_income_to_operating_activities_yearly_chart",
+                        "net_income_to_operating_activities_quarterly_chart"
+                    ]
+                },
+                {
+                    "title" : "股利政策",
+                    "charts" : [
+                        "dividend_policy_chart"
+                    ]
+                }
+            ]
+        }
+    ],
+    "stock_categories": [
+        {
+            "title": "消坡塊概念股",
+            "stock_symbols": [
+                "1101"
+            ]
+        },
+        {
+            "title": "定存概念股",
+            "stock_symbols": [
+                "2317", 
+                "2330",
+                "2412",
+                "2498" 
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2007-12-31", 
+        "equity_multiplier": 1.9079159935379644, 
+        "liabilities_ratio": 47.586790855207454, 
+        "equity_ratio": 52.413209144792546
+    }, 
+    {
+        "date": "2008-12-31", 
+        "equity_multiplier": 2.152445555158872, 
+        "liabilities_ratio": 53.54121744899651, 
+        "equity_ratio": 46.45878255100349
+    }, 
+    {
+        "date": "2009-12-31", 
+        "equity_multiplier": 2.4540630182421226, 
+        "liabilities_ratio": 59.25125016894175, 
+        "equity_ratio": 40.74874983105825
+    }, 
+    {
+        "date": "2010-12-31", 
+        "equity_multiplier": 2.7464056286326093, 
+        "liabilities_ratio": 63.588772555134774, 
+        "equity_ratio": 36.411227444865226
+    }, 
+    {
+        "true_liabilities_ratio": 16.223132036847492, 
+        "liabilities_ratio": 61.74201969858787, 
+        "long_term_capital_to_fixed_assets_ratio": 3.536205316223648, 
+        "equity_multiplier": 2.613833746898263, 
+        "date": "2011-12-31", 
+        "equity_ratio": 38.257980301412125
+    }, 
+    {
+        "true_liabilities_ratio": 19.461279461279464, 
+        "liabilities_ratio": 58.660264667993914, 
+        "long_term_capital_to_fixed_assets_ratio": 4.167772511848341, 
+        "equity_multiplier": 2.4189801699716713, 
+        "date": "2012-12-31", 
+        "equity_ratio": 41.339735332006086
+    }, 
+    {
+        "true_liabilities_ratio": 4.656985478217326, 
+        "liabilities_ratio": 55.98637057925038, 
+        "long_term_capital_to_fixed_assets_ratio": 42.27956989247312, 
+        "equity_multiplier": 2.2720234917245063, 
+        "date": "2013-12-31", 
+        "equity_ratio": 44.013629420749616
+    }, 
+    {
+        "true_liabilities_ratio": 4.445506692160612, 
+        "liabilities_ratio": 61.89785258270458, 
+        "long_term_capital_to_fixed_assets_ratio": 47.41379310344828, 
+        "equity_multiplier": 2.6245239908606246, 
+        "date": "2014-12-31", 
+        "equity_ratio": 38.10214741729541
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2013-09-30", 
+        "equity_multiplier": 1.6703406813627255, 
+        "liabilities_ratio": 40.131973605278944, 
+        "equity_ratio": 59.86802639472105
+    }, 
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 2.0174180327868854, 
+        "liabilities_ratio": 50.43169121381412, 
+        "equity_ratio": 49.56830878618588
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 1.6646586345381527, 
+        "liabilities_ratio": 39.9276236429433, 
+        "equity_ratio": 60.07237635705669
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 1.9129554655870444, 
+        "liabilities_ratio": 47.72486772486773, 
+        "equity_ratio": 52.27513227513227
+    }, 
+    {
+        "true_liabilities_ratio": 0.5529953917050692, 
+        "liabilities_ratio": 51.68426344896934, 
+        "long_term_capital_to_fixed_assets_ratio": 10.397849462365592, 
+        "equity_multiplier": 2.0697190426638916, 
+        "date": "2014-09-30", 
+        "equity_ratio": 48.31573655103067
+    }, 
+    {
+        "true_liabilities_ratio": 1.1545293072824157, 
+        "liabilities_ratio": 51.00095328884652, 
+        "long_term_capital_to_fixed_assets_ratio": 9.914285714285715, 
+        "equity_multiplier": 2.0408560311284045, 
+        "date": "2014-12-31", 
+        "equity_ratio": 48.99904671115348
+    }, 
+    {
+        "true_liabilities_ratio": 1.6666666666666667, 
+        "liabilities_ratio": 45.909327774882755, 
+        "long_term_capital_to_fixed_assets_ratio": 9.522522522522523, 
+        "equity_multiplier": 1.848747591522158, 
+        "date": "2015-03-31", 
+        "equity_ratio": 54.09067222511725
+    }, 
+    {
+        "true_liabilities_ratio": 1.725790987535954, 
+        "liabilities_ratio": 49.94692144373673, 
+        "long_term_capital_to_fixed_assets_ratio": 8.736363636363636, 
+        "equity_multiplier": 1.997879109225875, 
+        "date": "2015-06-30", 
+        "equity_ratio": 50.05307855626327
+    }
+]

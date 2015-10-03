@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2013-09-30", 
+        "equity_multiplier": 1.2334630350194553, 
+        "liabilities_ratio": 18.92744479495268, 
+        "equity_ratio": 81.07255520504731
+    }, 
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 1.2272727272727273, 
+        "liabilities_ratio": 18.51851851851852, 
+        "equity_ratio": 81.48148148148148
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 1.2148148148148148, 
+        "liabilities_ratio": 17.58130081300813, 
+        "equity_ratio": 82.3170731707317
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 1.3290488431876606, 
+        "liabilities_ratio": 24.758220502901356, 
+        "equity_ratio": 75.24177949709865
+    }, 
+    {
+        "true_liabilities_ratio": 15.10204081632653, 
+        "liabilities_ratio": 33.167907361455754, 
+        "long_term_capital_to_fixed_assets_ratio": 1.6713286713286712, 
+        "equity_multiplier": 1.4962871287128714, 
+        "date": "2014-09-30", 
+        "equity_ratio": 66.83209263854425
+    }, 
+    {
+        "true_liabilities_ratio": 14.7117296222664, 
+        "liabilities_ratio": 28.55917667238422, 
+        "long_term_capital_to_fixed_assets_ratio": 1.727112676056338, 
+        "equity_multiplier": 1.3997599039615847, 
+        "date": "2014-12-31", 
+        "equity_ratio": 71.44082332761577
+    }, 
+    {
+        "true_liabilities_ratio": 13.745019920318724, 
+        "liabilities_ratio": 27.74914089347079, 
+        "long_term_capital_to_fixed_assets_ratio": 1.7450980392156863, 
+        "equity_multiplier": 1.3840665873959572, 
+        "date": "2015-03-31", 
+        "equity_ratio": 72.2508591065292
+    }, 
+    {
+        "true_liabilities_ratio": 13.544973544973546, 
+        "liabilities_ratio": 33.108108108108105, 
+        "long_term_capital_to_fixed_assets_ratio": 1.6546762589928057, 
+        "equity_multiplier": 1.494949494949495, 
+        "date": "2015-06-30", 
+        "equity_ratio": 66.8918918918919
+    }
+]

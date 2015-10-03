@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": 0.09677680268532374, 
+        "gross_profit_index": -0.24703699886633, 
+        "selling_and_administrative_expenses_index": 0.038777516413299164, 
+        "accounts_receivable_index": -0.0026333887578239915
+    }, 
+    {
+        "date": "2014-03-31", 
+        "accounts_payable_index": 0.09353434355178339, 
+        "gross_profit_index": 0.003940110323089045, 
+        "selling_and_administrative_expenses_index": -0.02876280535855004, 
+        "accounts_receivable_index": -0.08407336347544245
+    }, 
+    {
+        "date": "2014-06-30", 
+        "accounts_payable_index": 0.01916860615464184, 
+        "gross_profit_index": 0.11371456407269279, 
+        "selling_and_administrative_expenses_index": -0.009080886856396228, 
+        "accounts_receivable_index": 0.02664743810538582
+    }, 
+    {
+        "date": "2014-09-30", 
+        "accounts_payable_index": -0.09610566173413781, 
+        "gross_profit_index": 0.1873241700827908, 
+        "selling_and_administrative_expenses_index": -0.01324239600101669, 
+        "accounts_receivable_index": 0.040050333348050686
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": -0.002480388253397754, 
+        "gross_profit_index": -0.08937045957684392, 
+        "selling_and_administrative_expenses_index": -0.007197991734690393, 
+        "accounts_receivable_index": 0.03227257910234007
+    }, 
+    {
+        "date": "2015-03-31", 
+        "accounts_payable_index": 0.09601378418244613, 
+        "gross_profit_index": -0.12116403116006375, 
+        "selling_and_administrative_expenses_index": -0.027902108149978018, 
+        "accounts_receivable_index": -0.07552387239443356
+    }, 
+    {
+        "date": "2015-06-30", 
+        "accounts_payable_index": -0.11173742045914833, 
+        "gross_profit_index": 0.16295255414118037, 
+        "selling_and_administrative_expenses_index": 0.02194693159982011, 
+        "accounts_receivable_index": -0.006018671282876531
+    }
+]

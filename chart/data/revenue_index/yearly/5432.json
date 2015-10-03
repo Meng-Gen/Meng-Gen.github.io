@@ -1,0 +1,50 @@
+[
+    {
+        "accounts_payable_index": 0.23805042154351128, 
+        "accounts_receivable_index": 0.14291692218895422, 
+        "gross_profit_index": -0.23254390226049226, 
+        "inventory_index": 0.07073647106113468, 
+        "date": "2006-12-31", 
+        "selling_and_administrative_expenses_index": 0.0572026364746685
+    }, 
+    {
+        "accounts_payable_index": 0.2601696791293474, 
+        "accounts_receivable_index": -0.23536439469673376, 
+        "gross_profit_index": 0.4037604487705372, 
+        "inventory_index": -0.2071536152938085, 
+        "date": "2007-12-31", 
+        "selling_and_administrative_expenses_index": -0.387249619086551
+    }, 
+    {
+        "accounts_payable_index": 0.9015765713624262, 
+        "accounts_receivable_index": -0.8473380122074876, 
+        "gross_profit_index": 1.2282108002602472, 
+        "inventory_index": -0.5658890401780889, 
+        "date": "2008-12-31", 
+        "selling_and_administrative_expenses_index": 1.3765802621524716
+    }, 
+    {
+        "accounts_payable_index": -0.17761084141910533, 
+        "accounts_receivable_index": -0.07555154825905042, 
+        "gross_profit_index": 0.537731594878067, 
+        "inventory_index": -0.14088681116305424, 
+        "date": "2009-12-31", 
+        "selling_and_administrative_expenses_index": 0.09000862500101281
+    }, 
+    {
+        "accounts_payable_index": -0.16896473303403725, 
+        "accounts_receivable_index": 0.038043113740324874, 
+        "gross_profit_index": 1.4538550344078232, 
+        "inventory_index": -0.04558890537556515, 
+        "date": "2013-12-31", 
+        "selling_and_administrative_expenses_index": 0.020774311195448703
+    }, 
+    {
+        "accounts_payable_index": 0.0, 
+        "accounts_receivable_index": 0.0692640692640693, 
+        "gross_profit_index": 43.476190476190474, 
+        "inventory_index": 0.2824302134646962, 
+        "date": "2014-12-31", 
+        "selling_and_administrative_expenses_index": 0.05012531328320807
+    }
+]

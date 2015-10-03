@@ -1,0 +1,52 @@
+[
+    {
+        "accounts_payable_index": 0.19230652478202942, 
+        "accounts_receivable_index": -0.10808335631385607, 
+        "gross_profit_index": 0.6422064169736204, 
+        "inventory_index": 0.1221365596732949, 
+        "date": "2008-12-31", 
+        "selling_and_administrative_expenses_index": 0.33792603335750543
+    }, 
+    {
+        "accounts_payable_index": -0.5642189674597389, 
+        "accounts_receivable_index": 0.38945128991948874, 
+        "gross_profit_index": 0.44383626844359836, 
+        "inventory_index": 0.12950779162612547, 
+        "date": "2009-12-31", 
+        "selling_and_administrative_expenses_index": 0.17593285132552147
+    }, 
+    {
+        "accounts_payable_index": 0.2854310399728278, 
+        "accounts_receivable_index": -0.11041228709940368, 
+        "gross_profit_index": -2.0882713821725005, 
+        "inventory_index": -0.10412615445948042, 
+        "date": "2010-12-31", 
+        "selling_and_administrative_expenses_index": -0.06306316045512284
+    }, 
+    {
+        "accounts_payable_index": 0.2532925442933853, 
+        "accounts_receivable_index": -0.19182002971551493, 
+        "gross_profit_index": 5.031167108753316, 
+        "inventory_index": -0.06342517326944463, 
+        "date": "2011-12-31", 
+        "selling_and_administrative_expenses_index": 0.6992250481094294
+    }, 
+    {
+        "date": "2012-12-31", 
+        "accounts_payable_index": -0.03233019388436631, 
+        "gross_profit_index": -0.9016139985839583, 
+        "selling_and_administrative_expenses_index": 1.6095457469954668
+    }, 
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": 0.03428571428571425, 
+        "gross_profit_index": 0.4302362204724409, 
+        "selling_and_administrative_expenses_index": 0.01834586466165422, 
+        "accounts_receivable_index": -0.2464705882352941
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": 0.2346938775510204, 
+        "gross_profit_index": 1.4546938775510203
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": -0.4085714285714286, 
+        "inventory_index": 0.22023809523809526, 
+        "gross_profit_index": 1.965045592705167, 
+        "accounts_receivable_index": 0.13690476190476192
+    }, 
+    {
+        "date": "2014-03-31", 
+        "accounts_payable_index": -0.10761957730812013, 
+        "inventory_index": 0.13401253918495298, 
+        "gross_profit_index": -0.6431034482758621, 
+        "accounts_receivable_index": 0.1374430709173715
+    }, 
+    {
+        "date": "2014-06-30", 
+        "accounts_payable_index": -0.04848484848484849, 
+        "inventory_index": 0.09438648782911077, 
+        "gross_profit_index": 1.7830940988835726, 
+        "accounts_receivable_index": -0.13427377220480669
+    }, 
+    {
+        "date": "2014-09-30", 
+        "accounts_payable_index": 0.6773770491803278, 
+        "inventory_index": -0.6162005785920925, 
+        "gross_profit_index": -2.442622950819672, 
+        "accounts_receivable_index": -0.138573630376909
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": -0.3644169246646027, 
+        "inventory_index": -0.19177355152587355, 
+        "gross_profit_index": 0.9943709541232761, 
+        "accounts_receivable_index": 0.6074216195002833
+    }, 
+    {
+        "date": "2015-03-31", 
+        "accounts_payable_index": -0.6662619092097889, 
+        "inventory_index": 0.40466732869910627, 
+        "gross_profit_index": 0.3823000898472597, 
+        "accounts_receivable_index": 0.3904177309054956
+    }, 
+    {
+        "date": "2015-06-30", 
+        "accounts_payable_index": 0.06143899204244031, 
+        "inventory_index": 0.07964046822742475, 
+        "gross_profit_index": -1.9144230769230768, 
+        "accounts_receivable_index": 0.301620308756987
+    }
+]

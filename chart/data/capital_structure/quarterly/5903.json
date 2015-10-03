@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2013-09-30", 
+        "equity_multiplier": 4.544414535666218, 
+        "liabilities_ratio": 77.99496520065156, 
+        "equity_ratio": 22.00503479934844
+    }, 
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 4.465738525125081, 
+        "liabilities_ratio": 77.60728725217984, 
+        "equity_ratio": 22.392712747820156
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 4.383625969783585, 
+        "liabilities_ratio": 77.18783475385403, 
+        "equity_ratio": 22.812165246145966
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 5.328448476389858, 
+        "liabilities_ratio": 81.23717640895795, 
+        "equity_ratio": 18.767189068843585
+    }, 
+    {
+        "true_liabilities_ratio": 12.580198767140521, 
+        "liabilities_ratio": 80.2625584958794, 
+        "long_term_capital_to_fixed_assets_ratio": 0.6238234339500163, 
+        "equity_multiplier": 5.066512798992866, 
+        "date": "2014-09-30", 
+        "equity_ratio": 19.737441504120596
+    }, 
+    {
+        "true_liabilities_ratio": 10.87091564169462, 
+        "liabilities_ratio": 78.63014884042921, 
+        "long_term_capital_to_fixed_assets_ratio": 0.7056182502123529, 
+        "equity_multiplier": 4.678542510121457, 
+        "date": "2014-12-31", 
+        "equity_ratio": 21.37417791623399
+    }, 
+    {
+        "true_liabilities_ratio": 9.2925288068393, 
+        "liabilities_ratio": 78.5672020287405, 
+        "long_term_capital_to_fixed_assets_ratio": 0.6910018993352327, 
+        "equity_multiplier": 4.665746401104319, 
+        "date": "2015-03-31", 
+        "equity_ratio": 21.43279797125951
+    }, 
+    {
+        "true_liabilities_ratio": 8.7266126780229, 
+        "liabilities_ratio": 83.25568648944916, 
+        "long_term_capital_to_fixed_assets_ratio": 0.5812877979366773, 
+        "equity_multiplier": 5.972176759410802, 
+        "date": "2015-06-30", 
+        "equity_ratio": 16.744313510550835
+    }
+]

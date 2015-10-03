@@ -1,0 +1,46 @@
+[
+    {
+        "date": "1998", 
+        "stock_dividends": 2.0, 
+        "stock_dividends_from_capital_reserve": 1.0, 
+        "stock_dividends_from_retained_earnings": 1.0
+    }, 
+    {
+        "date": "1999", 
+        "stock_dividends": 1.5, 
+        "stock_dividends_from_capital_reserve": 1.0, 
+        "stock_dividends_from_retained_earnings": 0.5
+    }, 
+    {
+        "date": "2000", 
+        "stock_dividends_from_capital_reserve": 1.0
+    }, 
+    {
+        "date": "2001", 
+        "stock_dividends": 1.5, 
+        "stock_dividends_from_capital_reserve": 0.8328, 
+        "stock_dividends_from_retained_earnings": 0.6672
+    }, 
+    {
+        "date": "2002", 
+        "employee_stock_bonus_ratio": 0.74, 
+        "stock_dividends": 1.2, 
+        "stock_dividends_from_capital_reserve": 0.9999, 
+        "stock_dividends_from_retained_earnings": 0.2001
+    }, 
+    {
+        "employee_stock_bonus_ratio": 2.5700000000000003, 
+        "cash_dividends": 0.2971, 
+        "stock_dividends": 1.7827, 
+        "stock_dividends_from_retained_earnings": 0.7923, 
+        "stock_dividends_from_capital_reserve": 0.9904, 
+        "date": "2003"
+    }, 
+    {
+        "date": "2004", 
+        "employee_stock_bonus_ratio": 0.9299999999999999, 
+        "stock_dividends": 1.0131000000000001, 
+        "stock_dividends_from_capital_reserve": 0.89153, 
+        "stock_dividends_from_retained_earnings": 0.12157
+    }
+]

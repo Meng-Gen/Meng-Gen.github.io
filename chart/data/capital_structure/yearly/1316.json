@@ -1,0 +1,60 @@
+[
+    {
+        "date": "2007-12-31", 
+        "equity_multiplier": 1.1523713420787083, 
+        "liabilities_ratio": 13.134851138353765, 
+        "equity_ratio": 86.77758318739053
+    }, 
+    {
+        "date": "2008-12-31", 
+        "equity_multiplier": 1.1479166666666667, 
+        "liabilities_ratio": 12.885662431941924, 
+        "equity_ratio": 87.11433756805808
+    }, 
+    {
+        "date": "2009-12-31", 
+        "equity_multiplier": 1.1342494714587739, 
+        "liabilities_ratio": 11.835973904939422, 
+        "equity_ratio": 88.16402609506058
+    }, 
+    {
+        "true_liabilities_ratio": 0.776914539400666, 
+        "liabilities_ratio": 29.328063241106722, 
+        "long_term_capital_to_fixed_assets_ratio": 2.9966777408637872, 
+        "equity_multiplier": 1.4134078212290502, 
+        "date": "2010-12-31", 
+        "equity_ratio": 70.7509881422925
+    }, 
+    {
+        "true_liabilities_ratio": 17.842073538276072, 
+        "liabilities_ratio": 41.01876675603217, 
+        "long_term_capital_to_fixed_assets_ratio": 2.1014304291287385, 
+        "equity_multiplier": 1.6954545454545455, 
+        "date": "2011-12-31", 
+        "equity_ratio": 58.98123324396782
+    }, 
+    {
+        "true_liabilities_ratio": 17.905405405405407, 
+        "liabilities_ratio": 48.660518225735615, 
+        "long_term_capital_to_fixed_assets_ratio": 1.979281767955801, 
+        "equity_multiplier": 1.9494863013698631, 
+        "date": "2012-12-31", 
+        "equity_ratio": 51.2955643390426
+    }, 
+    {
+        "true_liabilities_ratio": 13.736574335782928, 
+        "liabilities_ratio": 48.174406238922366, 
+        "long_term_capital_to_fixed_assets_ratio": 2.970383275261324, 
+        "equity_multiplier": 1.929548563611491, 
+        "date": "2013-12-31", 
+        "equity_ratio": 51.825593761077634
+    }, 
+    {
+        "true_liabilities_ratio": 29.083333333333332, 
+        "liabilities_ratio": 46.15384615384615, 
+        "long_term_capital_to_fixed_assets_ratio": 8.913533834586467, 
+        "equity_multiplier": 1.8571428571428572, 
+        "date": "2014-12-31", 
+        "equity_ratio": 53.84615384615385
+    }
+]

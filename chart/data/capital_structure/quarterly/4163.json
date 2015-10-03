@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2013-09-30", 
+        "equity_multiplier": 1.5432999088422972, 
+        "liabilities_ratio": 35.20378027170703, 
+        "equity_ratio": 64.79621972829297
+    }, 
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 1.5118110236220472, 
+        "liabilities_ratio": 33.85416666666667, 
+        "equity_ratio": 66.14583333333334
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 1.4054500412881916, 
+        "liabilities_ratio": 28.84841363102233, 
+        "equity_ratio": 71.15158636897768
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 1.7396883593033914, 
+        "liabilities_ratio": 42.518440463645945, 
+        "equity_ratio": 57.481559536354055
+    }, 
+    {
+        "true_liabilities_ratio": 26.057142857142857, 
+        "liabilities_ratio": 42.09532798489854, 
+        "long_term_capital_to_fixed_assets_ratio": 2.0549450549450547, 
+        "equity_multiplier": 1.7269763651181744, 
+        "date": "2014-09-30", 
+        "equity_ratio": 57.90467201510147
+    }, 
+    {
+        "true_liabilities_ratio": 25.206384149697303, 
+        "liabilities_ratio": 42.18540080609046, 
+        "long_term_capital_to_fixed_assets_ratio": 2.040840140023337, 
+        "equity_multiplier": 1.729666924864446, 
+        "date": "2014-12-31", 
+        "equity_ratio": 57.814599193909544
+    }, 
+    {
+        "true_liabilities_ratio": 24.44208289054198, 
+        "liabilities_ratio": 40.61269146608315, 
+        "long_term_capital_to_fixed_assets_ratio": 2.1251461988304094, 
+        "equity_multiplier": 1.683861459100958, 
+        "date": "2015-03-31", 
+        "equity_ratio": 59.38730853391685
+    }, 
+    {
+        "true_liabilities_ratio": 26.907396622015145, 
+        "liabilities_ratio": 47.879317883690426, 
+        "long_term_capital_to_fixed_assets_ratio": 1.896788990825688, 
+        "equity_multiplier": 1.9186241610738255, 
+        "date": "2015-06-30", 
+        "equity_ratio": 52.12068211630958
+    }
+]

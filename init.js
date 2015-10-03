@@ -1,22 +1,35 @@
+function loadConfigSynchronously() {
+    var config = '';
+    $.ajax({
+        dataType: 'json',
+        url: 'config.json',
+        async: false,  
+        success: function(data) {
+            config = data; 
+        }
+    });    
+    return config;
+}
+
 function getStockSymbol() {
     var url = purl(location.search); 
     return url.param('stock_symbol') || '1101';
 }
 
-function initHeader() {
+function initContentTitle() {
     var headerElement = document.createElement('div');
     headerElement.className = 'title';
     headerElement.innerHTML = '財務比率分析 - ' + getStockSymbol();
-    var rootElement = document.getElementById('header');
+    var rootElement = document.getElementById('content_div');
     rootElement.appendChild(headerElement);
 }
 
-function initSections() {
-    var rootElement = document.getElementById('sections');
-    rootElement.appendChild(makeSections());
+function initContentBody(config) {
+    var rootElement = document.getElementById('content_div');
+    rootElement.appendChild(makeSections(config));
 }
 
-function initCharts() {
+function initContentCharts() {
     var stockSymbol = getStockSymbol();
     makeCapitalStructureChart(stockSymbol, 'yearly');
     makeCapitalStructureChart(stockSymbol, 'quarterly');
@@ -41,8 +54,36 @@ function initCharts() {
     makeRevenueIndex(stockSymbol, 'quarterly');
 }
 
+function initContent(config) {
+    initContentTitle();
+    initContentBody(config);
+    initContentCharts(); 
+}
+
+function initSitebar(config) {
+    var rootElement = document.getElementById('sidebar_div');
+    rootElement.appendChild(makeSidebar(config));
+}
+
+function initHeader() {
+    var headerElement = document.createElement('div');
+    headerElement.className = 'title';
+    headerElement.innerHTML = '股市貓';
+    var rootElement = document.getElementById('header_div');
+    rootElement.appendChild(headerElement);
+}
+
+function initFooter() {
+    var paragraphElement = document.createElement('p');
+    paragraphElement.innerHTML = '以上資料僅供參考，本站不負任何法律責任，投資人若依此以為買賣依據，須自負盈虧之責。資料以公開資訊觀測站之內容為準。';
+    var rootElement = document.getElementById('footer_div');
+    rootElement.appendChild(paragraphElement);
+}
+
 function init() {
+    var config = loadConfigSynchronously();
     initHeader();
-    initSections();
-    initCharts(); 
+    initContent(config);
+    initSitebar(config);
+    initFooter();
 }

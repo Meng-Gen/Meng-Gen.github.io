@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2007-12-31", 
+        "equity_multiplier": 2.8076171875, 
+        "liabilities_ratio": 64.38260869565218, 
+        "equity_ratio": 35.61739130434783
+    }, 
+    {
+        "date": "2008-12-31", 
+        "equity_multiplier": 2.6327433628318584, 
+        "liabilities_ratio": 62.016806722689076, 
+        "equity_ratio": 37.983193277310924
+    }, 
+    {
+        "date": "2009-12-31", 
+        "equity_multiplier": 2.2761341222879685, 
+        "liabilities_ratio": 56.10918544194108, 
+        "equity_ratio": 43.93414211438475
+    }, 
+    {
+        "date": "2010-12-31", 
+        "equity_multiplier": 1.9649446494464944, 
+        "liabilities_ratio": 49.10798122065728, 
+        "equity_ratio": 50.89201877934272
+    }, 
+    {
+        "true_liabilities_ratio": 0.04880429477794046, 
+        "liabilities_ratio": 46.30122405534859, 
+        "long_term_capital_to_fixed_assets_ratio": 1.1869488536155204, 
+        "equity_multiplier": 1.8622398414271557, 
+        "date": "2011-12-31", 
+        "equity_ratio": 53.69877594465141
+    }, 
+    {
+        "true_liabilities_ratio": 6.09597924773022, 
+        "liabilities_ratio": 61.86234817813765, 
+        "long_term_capital_to_fixed_assets_ratio": 1.0053368912608405, 
+        "equity_multiplier": 2.6220806794055203, 
+        "date": "2012-12-31", 
+        "equity_ratio": 38.13765182186235
+    }, 
+    {
+        "true_liabilities_ratio": 10.953177257525084, 
+        "liabilities_ratio": 66.63363065741659, 
+        "long_term_capital_to_fixed_assets_ratio": 0.8797224363916731, 
+        "equity_multiplier": 2.997029702970297, 
+        "date": "2013-12-31", 
+        "equity_ratio": 33.36636934258342
+    }, 
+    {
+        "true_liabilities_ratio": 31.125827814569533, 
+        "liabilities_ratio": 89.72332015810277, 
+        "long_term_capital_to_fixed_assets_ratio": 0.6038647342995169, 
+        "equity_multiplier": 9.73076923076923, 
+        "date": "2014-12-31", 
+        "equity_ratio": 10.276679841897234
+    }
+]

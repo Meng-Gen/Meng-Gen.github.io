@@ -1,0 +1,50 @@
+[
+    {
+        "accounts_payable_index": -0.026954047385540775, 
+        "accounts_receivable_index": 0.108601816185098, 
+        "gross_profit_index": 0.024963977546281935, 
+        "inventory_index": 0.18731608054437007, 
+        "date": "2014-03-31", 
+        "selling_and_administrative_expenses_index": 0.08248712789589495
+    }, 
+    {
+        "accounts_payable_index": 0.16967941234774167, 
+        "accounts_receivable_index": -0.12070003563321291, 
+        "gross_profit_index": 0.06902281733856011, 
+        "inventory_index": -0.32401378862572505, 
+        "date": "2014-06-30", 
+        "selling_and_administrative_expenses_index": -0.3341480401234318
+    }, 
+    {
+        "accounts_payable_index": -0.2091058524510501, 
+        "accounts_receivable_index": 0.018475323939504313, 
+        "gross_profit_index": 0.011426778276129488, 
+        "inventory_index": 0.15091201851071426, 
+        "date": "2014-09-30", 
+        "selling_and_administrative_expenses_index": -0.029637737641688935
+    }, 
+    {
+        "accounts_payable_index": -0.04858119757272321, 
+        "accounts_receivable_index": 0.17496265033926367, 
+        "gross_profit_index": 0.005377379679562727, 
+        "inventory_index": -0.0337793934680993, 
+        "date": "2014-12-31", 
+        "selling_and_administrative_expenses_index": -0.115195068389081
+    }, 
+    {
+        "accounts_payable_index": -0.11922154034247964, 
+        "accounts_receivable_index": 0.20645559606435995, 
+        "gross_profit_index": 0.20998487223835915, 
+        "inventory_index": -0.03557285985570577, 
+        "date": "2015-03-31", 
+        "selling_and_administrative_expenses_index": -0.3073652114069855
+    }, 
+    {
+        "accounts_payable_index": 0.4115303610308147, 
+        "accounts_receivable_index": -0.16919427858496797, 
+        "gross_profit_index": 0.2885124667103061, 
+        "inventory_index": -0.39638240077612097, 
+        "date": "2015-06-30", 
+        "selling_and_administrative_expenses_index": -0.38141314998617687
+    }
+]

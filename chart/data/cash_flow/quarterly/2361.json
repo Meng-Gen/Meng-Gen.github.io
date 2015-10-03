@@ -1,0 +1,64 @@
+[
+    {
+        "net_profit": -39, 
+        "cash_flow_from_financing_activities": 25, 
+        "accumulated_free_cash_flow": -25, 
+        "cash_flow_from_operating_activities": -31, 
+        "date": "2013-09-30", 
+        "free_cash_flow": -25, 
+        "cash_flow_from_investing_activities": 6
+    }, 
+    {
+        "net_profit": 6, 
+        "cash_flow_from_financing_activities": 5, 
+        "accumulated_free_cash_flow": -6, 
+        "cash_flow_from_operating_activities": -3, 
+        "date": "2013-12-31", 
+        "free_cash_flow": 19, 
+        "cash_flow_from_investing_activities": 22
+    }, 
+    {
+        "date": "2014-03-31", 
+        "net_profit": -28, 
+        "cash_flow_from_operating_activities": -27
+    }, 
+    {
+        "date": "2014-06-30", 
+        "net_profit": -38, 
+        "cash_flow_from_operating_activities": -23, 
+        "cash_flow_from_financing_activities": 6
+    }, 
+    {
+        "net_profit": 9, 
+        "cash_flow_from_financing_activities": -10, 
+        "accumulated_free_cash_flow": 47, 
+        "cash_flow_from_operating_activities": 1, 
+        "date": "2014-09-30", 
+        "free_cash_flow": 53, 
+        "cash_flow_from_investing_activities": 52
+    }, 
+    {
+        "date": "2014-12-31", 
+        "net_profit": 19, 
+        "cash_flow_from_operating_activities": 15, 
+        "cash_flow_from_financing_activities": -1
+    }, 
+    {
+        "net_profit": -25, 
+        "cash_flow_from_financing_activities": 29, 
+        "accumulated_free_cash_flow": 10, 
+        "cash_flow_from_operating_activities": -29, 
+        "date": "2015-03-31", 
+        "free_cash_flow": -37, 
+        "cash_flow_from_investing_activities": -8
+    }, 
+    {
+        "net_profit": -37, 
+        "cash_flow_from_financing_activities": 13, 
+        "accumulated_free_cash_flow": -15, 
+        "cash_flow_from_operating_activities": -28, 
+        "date": "2015-06-30", 
+        "free_cash_flow": -25, 
+        "cash_flow_from_investing_activities": 3
+    }
+]

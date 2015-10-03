@@ -1,0 +1,50 @@
+[
+    {
+        "accounts_payable_index": -0.11568960283485835, 
+        "accounts_receivable_index": 1.3593832536500943, 
+        "gross_profit_index": -0.056675171225272436, 
+        "inventory_index": -0.4615007130917511, 
+        "date": "2009-12-31", 
+        "selling_and_administrative_expenses_index": 0.035248862939905146
+    }, 
+    {
+        "accounts_payable_index": -1.032304884589663, 
+        "accounts_receivable_index": 1.0434045175856688, 
+        "gross_profit_index": -0.018157571522143534, 
+        "inventory_index": -0.3476831586173115, 
+        "date": "2010-12-31", 
+        "selling_and_administrative_expenses_index": -0.027683516268704245
+    }, 
+    {
+        "accounts_payable_index": 0.28232979815258297, 
+        "accounts_receivable_index": -0.12711079986031265, 
+        "gross_profit_index": -0.004379814256097347, 
+        "inventory_index": -0.13746022782055345, 
+        "date": "2011-12-31", 
+        "selling_and_administrative_expenses_index": -0.02034797541070721
+    }, 
+    {
+        "accounts_payable_index": 0.0866302594552471, 
+        "accounts_receivable_index": 0.056010319478014714, 
+        "gross_profit_index": 0.09364992653242743, 
+        "inventory_index": 0.42535000774286075, 
+        "date": "2012-12-31", 
+        "selling_and_administrative_expenses_index": 0.05870135861967973
+    }, 
+    {
+        "accounts_payable_index": 0.1424174029002159, 
+        "accounts_receivable_index": 0.07923429972227697, 
+        "gross_profit_index": 0.08468447276680141, 
+        "inventory_index": 0.25632432613764067, 
+        "date": "2013-12-31", 
+        "selling_and_administrative_expenses_index": 0.04923865344061429
+    }, 
+    {
+        "accounts_payable_index": -0.30549665496782735, 
+        "accounts_receivable_index": -0.07625987746916599, 
+        "gross_profit_index": -0.023008589280130942, 
+        "inventory_index": 0.056872704855645106, 
+        "date": "2014-12-31", 
+        "selling_and_administrative_expenses_index": -0.09542432042691426
+    }
+]

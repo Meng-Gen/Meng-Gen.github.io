@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2013-09-30", 
+        "equity_multiplier": 2.266200182537268, 
+        "liabilities_ratio": 55.87327158007787, 
+        "equity_ratio": 44.12672841992214
+    }, 
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 2.397673031026253, 
+        "liabilities_ratio": 58.305337812616656, 
+        "equity_ratio": 41.707104641035215
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 2.845908946195479, 
+        "liabilities_ratio": 64.85065443561919, 
+        "equity_ratio": 35.13815863071932
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 3.3679345894063277, 
+        "liabilities_ratio": 70.31876715220604, 
+        "equity_ratio": 29.691788051509395
+    }, 
+    {
+        "true_liabilities_ratio": 26.335090534036215, 
+        "liabilities_ratio": 63.650754992693614, 
+        "long_term_capital_to_fixed_assets_ratio": 1.7428330522765598, 
+        "equity_multiplier": 2.7510887772194303, 
+        "date": "2014-09-30", 
+        "equity_ratio": 36.34924500730638
+    }, 
+    {
+        "true_liabilities_ratio": 25.660464047783137, 
+        "liabilities_ratio": 68.58683014480499, 
+        "long_term_capital_to_fixed_assets_ratio": 1.396516393442623, 
+        "equity_multiplier": 3.183378196500673, 
+        "date": "2014-12-31", 
+        "equity_ratio": 31.41316985519501
+    }, 
+    {
+        "true_liabilities_ratio": 25.686184812442818, 
+        "liabilities_ratio": 70.03363571501376, 
+        "long_term_capital_to_fixed_assets_ratio": 1.268894440974391, 
+        "equity_multiplier": 3.337074829931973, 
+        "date": "2015-03-31", 
+        "equity_ratio": 29.96636428498624
+    }, 
+    {
+        "true_liabilities_ratio": 25.077743225233228, 
+        "liabilities_ratio": 67.11540549343177, 
+        "long_term_capital_to_fixed_assets_ratio": 1.3628318584070795, 
+        "equity_multiplier": 3.040937603169363, 
+        "date": "2015-06-30", 
+        "equity_ratio": 32.884594506568234
+    }
+]

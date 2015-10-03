@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": -0.3954022988505747, 
+        "gross_profit_index": 0.017641179410294847, 
+        "selling_and_administrative_expenses_index": 0.08532477947072975, 
+        "accounts_receivable_index": -0.1289422704378148
+    }, 
+    {
+        "date": "2014-03-31", 
+        "accounts_payable_index": 0.8962887646161667, 
+        "gross_profit_index": 0.02027798294500772, 
+        "selling_and_administrative_expenses_index": -0.23454820632388435, 
+        "accounts_receivable_index": -0.04535708759753321
+    }, 
+    {
+        "date": "2014-06-30", 
+        "accounts_payable_index": 0.3286052009456265, 
+        "gross_profit_index": 0.00205727897785718, 
+        "selling_and_administrative_expenses_index": 0.011760481192207545, 
+        "accounts_receivable_index": 0.14800298618887645
+    }, 
+    {
+        "date": "2014-09-30", 
+        "accounts_payable_index": -4.007843137254902, 
+        "gross_profit_index": -0.002193419740777691, 
+        "selling_and_administrative_expenses_index": 0.2805704099821747, 
+        "accounts_receivable_index": 0.20784313725490197
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": -0.27748992515831894, 
+        "gross_profit_index": 0.030393377138391187, 
+        "selling_and_administrative_expenses_index": 0.291826842721043, 
+        "accounts_receivable_index": 0.17378622145461523
+    }, 
+    {
+        "date": "2015-03-31", 
+        "accounts_payable_index": 0.055944055944055944, 
+        "gross_profit_index": -0.019580419580419582, 
+        "selling_and_administrative_expenses_index": 0.05191418750740785, 
+        "accounts_receivable_index": -0.06672988028920232
+    }, 
+    {
+        "date": "2015-06-30", 
+        "accounts_payable_index": -3.5329861111111107, 
+        "gross_profit_index": 0.04364224137931039, 
+        "selling_and_administrative_expenses_index": -0.04364224137931039, 
+        "accounts_receivable_index": -0.7102004716981132
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2007-12-31", 
+        "equity_multiplier": 1.6922183507549362, 
+        "liabilities_ratio": 40.905971173644474, 
+        "equity_ratio": 59.094028826355526
+    }, 
+    {
+        "date": "2008-12-31", 
+        "equity_multiplier": 1.4723670490093848, 
+        "liabilities_ratio": 32.08215297450425, 
+        "equity_ratio": 67.91784702549575
+    }, 
+    {
+        "date": "2009-12-31", 
+        "equity_multiplier": 1.5176589303733603, 
+        "liabilities_ratio": 34.109042553191486, 
+        "equity_ratio": 65.8909574468085
+    }, 
+    {
+        "date": "2010-12-31", 
+        "equity_multiplier": 2.3906581740976645, 
+        "liabilities_ratio": 58.170515097690945, 
+        "equity_ratio": 41.82948490230906
+    }, 
+    {
+        "true_liabilities_ratio": 31.489915419648668, 
+        "liabilities_ratio": 60.07648183556405, 
+        "long_term_capital_to_fixed_assets_ratio": 3.267094017094017, 
+        "equity_multiplier": 2.5023923444976077, 
+        "date": "2011-12-31", 
+        "equity_ratio": 39.961759082217974
+    }, 
+    {
+        "true_liabilities_ratio": 25.058365758754864, 
+        "liabilities_ratio": 66.75958188153311, 
+        "long_term_capital_to_fixed_assets_ratio": 2.761904761904762, 
+        "equity_multiplier": 3.008385744234801, 
+        "date": "2012-12-31", 
+        "equity_ratio": 33.2404181184669
+    }, 
+    {
+        "true_liabilities_ratio": 26.954177897574123, 
+        "liabilities_ratio": 64.7503285151117, 
+        "long_term_capital_to_fixed_assets_ratio": 3.5239234449760763, 
+        "equity_multiplier": 2.83690587138863, 
+        "date": "2013-12-31", 
+        "equity_ratio": 35.2496714848883
+    }, 
+    {
+        "true_liabilities_ratio": 24.32126696832579, 
+        "liabilities_ratio": 55.468483816013624, 
+        "long_term_capital_to_fixed_assets_ratio": 4.386363636363637, 
+        "equity_multiplier": 2.245600612088753, 
+        "date": "2014-12-31", 
+        "equity_ratio": 44.53151618398637
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "date": "1999", 
+        "employee_stock_bonus_ratio": 7.5, 
+        "stock_dividends_from_retained_earnings": 3.1
+    }, 
+    {
+        "date": "2000", 
+        "employee_stock_bonus_ratio": 3.0, 
+        "stock_dividends": 2.0, 
+        "stock_dividends_from_capital_reserve": 0.36, 
+        "stock_dividends_from_retained_earnings": 1.64
+    }, 
+    {
+        "employee_stock_bonus_ratio": 3.4799999999999995, 
+        "cash_dividends": 0.5, 
+        "stock_dividends": 1.5, 
+        "stock_dividends_from_retained_earnings": 1.4, 
+        "stock_dividends_from_capital_reserve": 0.1, 
+        "date": "2001"
+    }, 
+    {
+        "date": "2002", 
+        "employee_stock_bonus_ratio": 3.66, 
+        "cash_dividends": 2.0, 
+        "stock_dividends_from_retained_earnings": 2.0
+    }, 
+    {
+        "date": "2003", 
+        "employee_stock_bonus_ratio": 3.5900000000000003, 
+        "cash_dividends": 2.0, 
+        "stock_dividends_from_retained_earnings": 2.0
+    }, 
+    {
+        "employee_stock_bonus_ratio": 1.6099999999999999, 
+        "cash_dividends": 0.9988, 
+        "stock_dividends": 0.99881, 
+        "stock_dividends_from_retained_earnings": 0.89893, 
+        "stock_dividends_from_capital_reserve": 0.09988, 
+        "date": "2004"
+    }, 
+    {
+        "date": "2005", 
+        "employee_stock_bonus_ratio": 1.29, 
+        "cash_dividends": 0.7, 
+        "stock_dividends_from_retained_earnings": 0.5
+    }, 
+    {
+        "date": "2006", 
+        "employee_stock_bonus_ratio": 0.9400000000000001, 
+        "cash_dividends": 0.48297, 
+        "stock_dividends_from_retained_earnings": 0.38638
+    }, 
+    {
+        "employee_stock_bonus_ratio": 0.65, 
+        "cash_dividends": 0.35973, 
+        "stock_dividends": 0.23981999999999998, 
+        "stock_dividends_from_retained_earnings": 0.08993, 
+        "stock_dividends_from_capital_reserve": 0.14989, 
+        "date": "2007"
+    }, 
+    {
+        "date": "2009", 
+        "cash_dividends": 0.6
+    }, 
+    {
+        "date": "2010", 
+        "cash_dividends": 0.99975125
+    }, 
+    {
+        "date": "2011", 
+        "cash_dividends": 0.5
+    }, 
+    {
+        "date": "2012", 
+        "cash_dividends": 0.2
+    }
+]

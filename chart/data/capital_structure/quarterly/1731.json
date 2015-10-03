@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2013-09-30", 
+        "equity_multiplier": 1.578210590383445, 
+        "liabilities_ratio": 36.6370998843039, 
+        "equity_ratio": 63.36290011569611
+    }, 
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 1.5201660735468565, 
+        "liabilities_ratio": 34.21771361685525, 
+        "equity_ratio": 65.78228638314475
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 1.5393654524089306, 
+        "liabilities_ratio": 35.038167938931295, 
+        "equity_ratio": 64.9618320610687
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 1.5370258880192655, 
+        "liabilities_ratio": 34.90011750881316, 
+        "equity_ratio": 65.06071288679985
+    }, 
+    {
+        "true_liabilities_ratio": 10.515247108307046, 
+        "liabilities_ratio": 31.376518218623485, 
+        "long_term_capital_to_fixed_assets_ratio": 3.352212389380531, 
+        "equity_multiplier": 1.4580873671782764, 
+        "date": "2014-09-30", 
+        "equity_ratio": 68.582995951417
+    }, 
+    {
+        "true_liabilities_ratio": 10.357327809425168, 
+        "liabilities_ratio": 31.626984126984127, 
+        "long_term_capital_to_fixed_assets_ratio": 3.373684210526316, 
+        "equity_multiplier": 1.4625652930934416, 
+        "date": "2014-12-31", 
+        "equity_ratio": 68.37301587301587
+    }, 
+    {
+        "true_liabilities_ratio": 10.126582278481013, 
+        "liabilities_ratio": 31.895223420647152, 
+        "long_term_capital_to_fixed_assets_ratio": 3.4708994708994707, 
+        "equity_multiplier": 1.4683257918552035, 
+        "date": "2015-03-31", 
+        "equity_ratio": 68.10477657935286
+    }, 
+    {
+        "true_liabilities_ratio": 10.520778537611783, 
+        "liabilities_ratio": 35.0709083940207, 
+        "long_term_capital_to_fixed_assets_ratio": 3.382142857142857, 
+        "equity_multiplier": 1.5401416765053129, 
+        "date": "2015-06-30", 
+        "equity_ratio": 64.92909160597931
+    }
+]

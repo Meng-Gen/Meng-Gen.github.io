@@ -1,0 +1,49 @@
+[
+    {
+        "date": "2013-09-30", 
+        "current_ratio": 2.5824, 
+        "quick_ratio": 1.3648
+    }, 
+    {
+        "date": "2013-12-31", 
+        "current_ratio": 4.364303178484108, 
+        "quick_ratio": 2.806845965770171, 
+        "interest_protection_multiples": 19.0
+    }, 
+    {
+        "date": "2014-03-31", 
+        "current_ratio": 8.389261744966444, 
+        "quick_ratio": 6.751677852348993, 
+        "interest_protection_multiples": 15.0
+    }, 
+    {
+        "date": "2014-06-30", 
+        "current_ratio": 2.9814814814814814, 
+        "quick_ratio": 2.1995884773662553, 
+        "interest_protection_multiples": 5.5
+    }, 
+    {
+        "date": "2014-09-30", 
+        "current_ratio": 3.8201219512195124, 
+        "quick_ratio": 2.7378048780487805, 
+        "interest_protection_multiples": -2.5
+    }, 
+    {
+        "date": "2014-12-31", 
+        "current_ratio": 3.649851632047478, 
+        "quick_ratio": 2.830860534124629, 
+        "interest_protection_multiples": -4.0
+    }, 
+    {
+        "date": "2015-03-31", 
+        "current_ratio": 1.891846921797005, 
+        "quick_ratio": 1.4941763727121464, 
+        "interest_protection_multiples": -4.333333333333333
+    }, 
+    {
+        "date": "2015-06-30", 
+        "current_ratio": 1.8399246704331451, 
+        "quick_ratio": 1.4538606403013183, 
+        "interest_protection_multiples": -8.0
+    }
+]

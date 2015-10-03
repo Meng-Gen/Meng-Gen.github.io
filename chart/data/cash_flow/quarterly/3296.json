@@ -1,0 +1,65 @@
+[
+    {
+        "net_profit": -8, 
+        "cash_flow_from_financing_activities": -81, 
+        "accumulated_free_cash_flow": 4, 
+        "cash_flow_from_operating_activities": 6, 
+        "date": "2013-09-30", 
+        "free_cash_flow": 4, 
+        "cash_flow_from_investing_activities": -2
+    }, 
+    {
+        "net_profit": -7, 
+        "accumulated_free_cash_flow": 65, 
+        "cash_flow_from_operating_activities": 83, 
+        "date": "2013-12-31", 
+        "free_cash_flow": 61, 
+        "cash_flow_from_investing_activities": -22
+    }, 
+    {
+        "net_profit": -31, 
+        "accumulated_free_cash_flow": -15, 
+        "cash_flow_from_operating_activities": -35, 
+        "date": "2014-03-31", 
+        "free_cash_flow": -80, 
+        "cash_flow_from_investing_activities": -45
+    }, 
+    {
+        "date": "2014-06-30", 
+        "net_profit": 1, 
+        "cash_flow_from_operating_activities": 144
+    }, 
+    {
+        "net_profit": 32, 
+        "cash_flow_from_financing_activities": 6, 
+        "accumulated_free_cash_flow": -57, 
+        "cash_flow_from_operating_activities": -20, 
+        "date": "2014-09-30", 
+        "free_cash_flow": -42, 
+        "cash_flow_from_investing_activities": -22
+    }, 
+    {
+        "net_profit": 39, 
+        "accumulated_free_cash_flow": -133, 
+        "cash_flow_from_operating_activities": -101, 
+        "date": "2014-12-31", 
+        "free_cash_flow": -76, 
+        "cash_flow_from_investing_activities": 25
+    }, 
+    {
+        "net_profit": -32, 
+        "accumulated_free_cash_flow": -26, 
+        "cash_flow_from_operating_activities": 135, 
+        "date": "2015-03-31", 
+        "free_cash_flow": 107, 
+        "cash_flow_from_investing_activities": -28
+    }, 
+    {
+        "net_profit": -28, 
+        "accumulated_free_cash_flow": 21, 
+        "cash_flow_from_operating_activities": 52, 
+        "date": "2015-06-30", 
+        "free_cash_flow": 47, 
+        "cash_flow_from_investing_activities": -5
+    }
+]

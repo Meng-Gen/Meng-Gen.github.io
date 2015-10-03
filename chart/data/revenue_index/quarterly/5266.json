@@ -1,0 +1,44 @@
+[
+    {
+        "date": "2013-12-31", 
+        "accounts_payable_index": 0.8861111111111111, 
+        "gross_profit_index": -0.00797285835453776, 
+        "accounts_receivable_index": -1.0611111111111111
+    }, 
+    {
+        "date": "2014-03-31", 
+        "accounts_payable_index": 0.19400953029271611, 
+        "gross_profit_index": -0.029766693483507634, 
+        "accounts_receivable_index": 0.09246261824839797
+    }, 
+    {
+        "date": "2014-06-30", 
+        "accounts_payable_index": -0.33851333851333854, 
+        "gross_profit_index": 0.0038732043287851986, 
+        "accounts_receivable_index": 0.39806668838926906
+    }, 
+    {
+        "date": "2014-09-30", 
+        "accounts_payable_index": 0.0381175468483816, 
+        "gross_profit_index": -0.006422683036675869, 
+        "accounts_receivable_index": -0.008355642086476836
+    }, 
+    {
+        "date": "2014-12-31", 
+        "accounts_payable_index": 0.5343339587242026, 
+        "gross_profit_index": -0.0074381931745315585, 
+        "accounts_receivable_index": -0.3702313946216385
+    }, 
+    {
+        "date": "2015-03-31", 
+        "accounts_payable_index": -0.0549323017408124, 
+        "gross_profit_index": -0.010372716248584407, 
+        "accounts_receivable_index": -0.01173436492585428
+    }, 
+    {
+        "date": "2015-06-30", 
+        "accounts_payable_index": -0.12395514780835881, 
+        "gross_profit_index": -0.005509073372064333, 
+        "accounts_receivable_index": 0.22712975098296198
+    }
+]

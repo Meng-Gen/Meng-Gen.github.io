@@ -1,0 +1,64 @@
+[
+    {
+        "date": "2013-09-30", 
+        "dso": 12.166666666666666, 
+        "net_profit_before_tax_margin": 6.666666666666667, 
+        "operating_profit_margin": 20.0, 
+        "gross_profit_margin": 60.0
+    }, 
+    {
+        "date": "2013-12-31", 
+        "dso": 15.208333333333332, 
+        "net_profit_before_tax_margin": 6.666666666666667, 
+        "operating_profit_margin": -6.666666666666667, 
+        "gross_profit_margin": 60.0
+    }, 
+    {
+        "net_profit_margin": 31.25, 
+        "net_profit_before_tax_margin": 31.25, 
+        "operating_profit_margin": 18.75, 
+        "dso": 19.9609375, 
+        "date": "2014-03-31", 
+        "gross_profit_margin": 62.5
+    }, 
+    {
+        "net_profit_margin": 12.5, 
+        "net_profit_before_tax_margin": 12.5, 
+        "operating_profit_margin": 25.0, 
+        "dso": 22.8125, 
+        "date": "2014-06-30", 
+        "gross_profit_margin": 62.5
+    }, 
+    {
+        "net_profit_margin": 56.25, 
+        "net_profit_before_tax_margin": 68.75, 
+        "operating_profit_margin": 12.5, 
+        "dso": 22.8125, 
+        "date": "2014-09-30", 
+        "gross_profit_margin": 62.5
+    }, 
+    {
+        "net_profit_margin": 25.0, 
+        "net_profit_before_tax_margin": 31.25, 
+        "operating_profit_margin": 25.0, 
+        "dso": 19.9609375, 
+        "date": "2014-12-31", 
+        "gross_profit_margin": 62.5
+    }, 
+    {
+        "net_profit_margin": 29.411764705882355, 
+        "net_profit_before_tax_margin": 17.647058823529413, 
+        "operating_profit_margin": 23.52941176470588, 
+        "dso": 16.102941176470587, 
+        "date": "2015-03-31", 
+        "gross_profit_margin": 64.70588235294117
+    }, 
+    {
+        "net_profit_margin": 27.77777777777778, 
+        "net_profit_before_tax_margin": 27.77777777777778, 
+        "operating_profit_margin": 22.22222222222222, 
+        "dso": 15.208333333333332, 
+        "date": "2015-06-30", 
+        "gross_profit_margin": 61.111111111111114
+    }
+]

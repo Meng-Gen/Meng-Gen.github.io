@@ -1,0 +1,54 @@
+[
+    {
+        "accounts_payable_index": 0.053291536050156796, 
+        "accounts_receivable_index": 0.1601731601731602, 
+        "gross_profit_index": 0.7995337995337995, 
+        "inventory_index": -0.19696969696969702, 
+        "date": "2013-12-31", 
+        "selling_and_administrative_expenses_index": 0.5696969696969697
+    }, 
+    {
+        "date": "2014-03-31", 
+        "accounts_payable_index": 0.09824561403508769, 
+        "inventory_index": 0.10476190476190478, 
+        "gross_profit_index": 0.4060606060606061, 
+        "accounts_receivable_index": 0.09583333333333333
+    }, 
+    {
+        "date": "2014-06-30", 
+        "accounts_payable_index": 0.5, 
+        "gross_profit_index": 3.0408163265306123, 
+        "accounts_receivable_index": 0.1
+    }, 
+    {
+        "date": "2014-09-30", 
+        "accounts_payable_index": -1.0470219435736678, 
+        "gross_profit_index": 1.9005305039787799, 
+        "selling_and_administrative_expenses_index": -1.4022988505747125, 
+        "accounts_receivable_index": -0.5620689655172413
+    }, 
+    {
+        "accounts_payable_index": -15.038095238095238, 
+        "accounts_receivable_index": 3.932539682539683, 
+        "gross_profit_index": -0.564625850340136, 
+        "inventory_index": 41.57142857142858, 
+        "date": "2014-12-31", 
+        "selling_and_administrative_expenses_index": -0.9554531490015361
+    }, 
+    {
+        "accounts_payable_index": 3.047554347826087, 
+        "accounts_receivable_index": -2.9226434426229506, 
+        "gross_profit_index": 5.013392857142858, 
+        "inventory_index": -2.018190298507463, 
+        "date": "2015-03-31", 
+        "selling_and_administrative_expenses_index": -2.895138888888889
+    }, 
+    {
+        "accounts_payable_index": 1.1352149403689076, 
+        "accounts_receivable_index": -0.878092798509635, 
+        "gross_profit_index": 0.5814606741573034, 
+        "inventory_index": -0.9211158465710965, 
+        "date": "2015-06-30", 
+        "selling_and_administrative_expenses_index": -0.5094267758522186
+    }
+]

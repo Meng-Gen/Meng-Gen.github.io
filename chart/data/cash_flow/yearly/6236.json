@@ -1,0 +1,64 @@
+[
+    {
+        "net_profit": -37, 
+        "cash_flow_from_financing_activities": -1, 
+        "accumulated_free_cash_flow": 23, 
+        "cash_flow_from_operating_activities": 20, 
+        "date": "2007-12-31", 
+        "free_cash_flow": 23, 
+        "cash_flow_from_investing_activities": 3
+    }, 
+    {
+        "date": "2008-12-31", 
+        "net_profit": -41, 
+        "cash_flow_from_operating_activities": -18, 
+        "cash_flow_from_financing_activities": 70
+    }, 
+    {
+        "date": "2009-12-31", 
+        "net_profit": -25, 
+        "cash_flow_from_operating_activities": -29, 
+        "cash_flow_from_financing_activities": -70
+    }, 
+    {
+        "date": "2010-12-31", 
+        "net_profit": -15, 
+        "cash_flow_from_operating_activities": -8
+    }, 
+    {
+        "net_profit": 3, 
+        "cash_flow_from_financing_activities": 26, 
+        "accumulated_free_cash_flow": 5, 
+        "cash_flow_from_operating_activities": -16, 
+        "date": "2011-12-31", 
+        "free_cash_flow": -18, 
+        "cash_flow_from_investing_activities": -2
+    }, 
+    {
+        "net_profit": -21, 
+        "accumulated_free_cash_flow": -12, 
+        "cash_flow_from_operating_activities": -16, 
+        "date": "2012-12-31", 
+        "free_cash_flow": -17, 
+        "cash_flow_from_investing_activities": -1
+    }, 
+    {
+        "net_profit": -12, 
+        "cash_flow_from_financing_activities": 254, 
+        "accumulated_free_cash_flow": -62, 
+        "cash_flow_from_operating_activities": -33, 
+        "date": "2013-12-31", 
+        "free_cash_flow": -50, 
+        "cash_flow_from_investing_activities": -17
+    }, 
+    {
+        "net_profit": 12, 
+        "cash_flow_from_financing_activities": 14, 
+        "long_term_investments_to_assets_ratio": 2.849002849002849, 
+        "accumulated_free_cash_flow": -186, 
+        "cash_flow_from_operating_activities": 28, 
+        "date": "2014-12-31", 
+        "free_cash_flow": -124, 
+        "cash_flow_from_investing_activities": -152
+    }
+]

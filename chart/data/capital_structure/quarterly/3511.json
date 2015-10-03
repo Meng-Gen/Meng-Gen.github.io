@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2013-09-30", 
+        "equity_multiplier": 1.3680473372781066, 
+        "liabilities_ratio": 26.903114186851212, 
+        "equity_ratio": 73.09688581314879
+    }, 
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 1.4262086513994912, 
+        "liabilities_ratio": 29.884032114183768, 
+        "equity_ratio": 70.11596788581623
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 1.409271523178808, 
+        "liabilities_ratio": 29.041353383458645, 
+        "equity_ratio": 70.95864661654136
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 1.6017830609212482, 
+        "liabilities_ratio": 37.569573283859, 
+        "equity_ratio": 62.430426716141
+    }, 
+    {
+        "true_liabilities_ratio": 5.6417489421720735, 
+        "liabilities_ratio": 40.19873532068654, 
+        "long_term_capital_to_fixed_assets_ratio": 2.404109589041096, 
+        "equity_multiplier": 1.6722054380664653, 
+        "date": "2014-09-30", 
+        "equity_ratio": 59.80126467931346
+    }, 
+    {
+        "true_liabilities_ratio": 5.594405594405594, 
+        "liabilities_ratio": 43.559322033898304, 
+        "long_term_capital_to_fixed_assets_ratio": 2.2169811320754715, 
+        "equity_multiplier": 1.7744360902255638, 
+        "date": "2014-12-31", 
+        "equity_ratio": 56.355932203389834
+    }, 
+    {
+        "true_liabilities_ratio": 4.457652303120357, 
+        "liabilities_ratio": 39.75332068311195, 
+        "long_term_capital_to_fixed_assets_ratio": 1.996996996996997, 
+        "equity_multiplier": 1.6598425196850393, 
+        "date": "2015-03-31", 
+        "equity_ratio": 60.24667931688804
+    }, 
+    {
+        "true_liabilities_ratio": 4.279600570613409, 
+        "liabilities_ratio": 43.58538657604078, 
+        "long_term_capital_to_fixed_assets_ratio": 1.9660056657223797, 
+        "equity_multiplier": 1.7725903614457832, 
+        "date": "2015-06-30", 
+        "equity_ratio": 56.41461342395922
+    }
+]
