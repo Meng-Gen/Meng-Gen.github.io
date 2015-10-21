@@ -1,1 +1,374 @@
-[]
+[
+    {
+        "date": "2011-10-31", 
+        "operating_revenue": 31777, 
+        "accumulated_operating_revenue": 31777, 
+        "long_term_average": 31777, 
+        "short_term_average": 31777
+    }, 
+    {
+        "date": "2011-11-30", 
+        "operating_revenue": 149906, 
+        "accumulated_operating_revenue": 181683, 
+        "long_term_average": 90841, 
+        "short_term_average": 90841
+    }, 
+    {
+        "date": "2011-12-31", 
+        "operating_revenue": 94663, 
+        "accumulated_operating_revenue": 276346, 
+        "long_term_average": 92115, 
+        "short_term_average": 92115
+    }, 
+    {
+        "date": "2012-01-31", 
+        "operating_revenue": 87722, 
+        "accumulated_operating_revenue": 87722, 
+        "long_term_average": 91017, 
+        "short_term_average": 110763
+    }, 
+    {
+        "date": "2012-02-29", 
+        "operating_revenue": 86964, 
+        "accumulated_operating_revenue": 174686, 
+        "long_term_average": 90206, 
+        "short_term_average": 89783
+    }, 
+    {
+        "date": "2012-03-31", 
+        "operating_revenue": 101448, 
+        "accumulated_operating_revenue": 276134, 
+        "long_term_average": 92080, 
+        "short_term_average": 92044
+    }, 
+    {
+        "date": "2012-04-30", 
+        "operating_revenue": 99847, 
+        "accumulated_operating_revenue": 375981, 
+        "long_term_average": 93189, 
+        "short_term_average": 96086
+    }, 
+    {
+        "date": "2012-05-31", 
+        "operating_revenue": 94440, 
+        "accumulated_operating_revenue": 470421, 
+        "long_term_average": 93345, 
+        "short_term_average": 98578
+    }, 
+    {
+        "date": "2012-06-30", 
+        "operating_revenue": 88340, 
+        "accumulated_operating_revenue": 558761, 
+        "long_term_average": 92789, 
+        "short_term_average": 94209
+    }, 
+    {
+        "date": "2012-07-31", 
+        "operating_revenue": 72386, 
+        "accumulated_operating_revenue": 631147, 
+        "long_term_average": 90749, 
+        "short_term_average": 85055
+    }, 
+    {
+        "date": "2012-08-31", 
+        "operating_revenue": 77382, 
+        "accumulated_operating_revenue": 708529, 
+        "long_term_average": 89534, 
+        "short_term_average": 79369
+    }, 
+    {
+        "date": "2012-09-30", 
+        "operating_revenue": 85259, 
+        "accumulated_operating_revenue": 793788, 
+        "long_term_average": 89177, 
+        "short_term_average": 78342
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 2669.874437486232, 
+        "accumulated_operating_revenue": 880183, 
+        "long_term_average": 93729, 
+        "date": "2012-10-31", 
+        "operating_revenue": 86395, 
+        "short_term_average": 83012
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 449.1697076776584, 
+        "accumulated_operating_revenue": 997748, 
+        "long_term_average": 91034, 
+        "date": "2012-11-30", 
+        "operating_revenue": 117565, 
+        "short_term_average": 96406
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 287.230500893807, 
+        "accumulated_operating_revenue": 1070096, 
+        "long_term_average": 89174, 
+        "date": "2012-12-31", 
+        "operating_revenue": 72348, 
+        "short_term_average": 92102
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 36.69546977953079, 
+        "accumulated_operating_revenue": 119912, 
+        "long_term_average": 91857, 
+        "date": "2013-01-31", 
+        "operating_revenue": 119912, 
+        "short_term_average": 103275
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 33.548767502833655, 
+        "accumulated_operating_revenue": 233291, 
+        "long_term_average": 94058, 
+        "date": "2013-02-28", 
+        "operating_revenue": 113379, 
+        "short_term_average": 101879
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 44.04455807687572, 
+        "accumulated_operating_revenue": 397756, 
+        "long_term_average": 99309, 
+        "date": "2013-03-31", 
+        "operating_revenue": 164465, 
+        "short_term_average": 132585
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 50.6288881619018, 
+        "accumulated_operating_revenue": 566336, 
+        "long_term_average": 105037, 
+        "date": "2013-04-30", 
+        "operating_revenue": 168580, 
+        "short_term_average": 148808
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 57.090350983480754, 
+        "accumulated_operating_revenue": 738986, 
+        "long_term_average": 111555, 
+        "date": "2013-05-31", 
+        "operating_revenue": 172650, 
+        "short_term_average": 168565
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 63.90156077464246, 
+        "accumulated_operating_revenue": 915818, 
+        "long_term_average": 118929, 
+        "date": "2013-06-30", 
+        "operating_revenue": 176832, 
+        "short_term_average": 172687
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 75.2895918066631, 
+        "accumulated_operating_revenue": 1106335, 
+        "long_term_average": 128773, 
+        "date": "2013-07-31", 
+        "operating_revenue": 190517, 
+        "short_term_average": 179999
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 84.84522157879212, 
+        "accumulated_operating_revenue": 1309682, 
+        "long_term_average": 139270, 
+        "date": "2013-08-31", 
+        "operating_revenue": 203347, 
+        "short_term_average": 190232
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 105.65012320670002, 
+        "accumulated_operating_revenue": 1632426, 
+        "long_term_average": 159061, 
+        "date": "2013-09-30", 
+        "operating_revenue": 322744, 
+        "short_term_average": 238869
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 110.88137353254947, 
+        "accumulated_operating_revenue": 1856142, 
+        "long_term_average": 170504, 
+        "date": "2013-10-31", 
+        "operating_revenue": 223716, 
+        "short_term_average": 249935
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 109.59590998929589, 
+        "accumulated_operating_revenue": 2091239, 
+        "long_term_average": 180298, 
+        "date": "2013-11-30", 
+        "operating_revenue": 235097, 
+        "short_term_average": 260519
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 117.63439915671117, 
+        "accumulated_operating_revenue": 2328897, 
+        "long_term_average": 194074, 
+        "date": "2013-12-31", 
+        "operating_revenue": 237658, 
+        "short_term_average": 232157
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 118.01154179731803, 
+        "accumulated_operating_revenue": 261422, 
+        "long_term_average": 205867, 
+        "date": "2014-01-31", 
+        "operating_revenue": 261422, 
+        "short_term_average": 244725
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 121.04710426034437, 
+        "accumulated_operating_revenue": 515683, 
+        "long_term_average": 217607, 
+        "date": "2014-02-28", 
+        "operating_revenue": 254261, 
+        "short_term_average": 251113
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 103.49887870956063, 
+        "accumulated_operating_revenue": 809429, 
+        "long_term_average": 228380, 
+        "date": "2014-03-31", 
+        "operating_revenue": 293746, 
+        "short_term_average": 269809
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 95.48236382642106, 
+        "accumulated_operating_revenue": 1107087, 
+        "long_term_average": 239137, 
+        "date": "2014-04-30", 
+        "operating_revenue": 297658, 
+        "short_term_average": 281888
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 89.83837312208892, 
+        "accumulated_operating_revenue": 1402879, 
+        "long_term_average": 249399, 
+        "date": "2014-05-31", 
+        "operating_revenue": 295792, 
+        "short_term_average": 295732
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 87.84747624528018, 
+        "accumulated_operating_revenue": 1720341, 
+        "long_term_average": 261118, 
+        "date": "2014-06-30", 
+        "operating_revenue": 317462, 
+        "short_term_average": 303637
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 86.58688371966899, 
+        "accumulated_operating_revenue": 2064276, 
+        "long_term_average": 273903, 
+        "date": "2014-07-31", 
+        "operating_revenue": 343935, 
+        "short_term_average": 319063
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 84.38483540279243, 
+        "accumulated_operating_revenue": 2414855, 
+        "long_term_average": 286172, 
+        "date": "2014-08-31", 
+        "operating_revenue": 350579, 
+        "short_term_average": 337325
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 70.71861144088614, 
+        "accumulated_operating_revenue": 2786855, 
+        "long_term_average": 290277, 
+        "date": "2014-09-30", 
+        "operating_revenue": 372000, 
+        "short_term_average": 355504
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 70.03505119759157, 
+        "accumulated_operating_revenue": 3156092, 
+        "long_term_average": 302403, 
+        "date": "2014-10-31", 
+        "operating_revenue": 369237, 
+        "short_term_average": 363938
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 69.34271979434202, 
+        "accumulated_operating_revenue": 3541361, 
+        "long_term_average": 314918, 
+        "date": "2014-11-30", 
+        "operating_revenue": 385269, 
+        "short_term_average": 375502
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 68.6065549485443, 
+        "accumulated_operating_revenue": 3926673, 
+        "long_term_average": 327222, 
+        "date": "2014-12-31", 
+        "operating_revenue": 385312, 
+        "short_term_average": 379939
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 58.08807215919089, 
+        "accumulated_operating_revenue": 413277, 
+        "long_term_average": 339877, 
+        "date": "2015-01-31", 
+        "operating_revenue": 413277, 
+        "short_term_average": 394619
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 50.150964836925006, 
+        "accumulated_operating_revenue": 774303, 
+        "long_term_average": 348774, 
+        "date": "2015-02-28", 
+        "operating_revenue": 361026, 
+        "short_term_average": 386538
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 48.00062760291514, 
+        "accumulated_operating_revenue": 1197960, 
+        "long_term_average": 359600, 
+        "date": "2015-03-31", 
+        "operating_revenue": 423657, 
+        "short_term_average": 399320
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 46.00559847600053, 
+        "accumulated_operating_revenue": 1616409, 
+        "long_term_average": 369666, 
+        "date": "2015-04-30", 
+        "operating_revenue": 418449, 
+        "short_term_average": 401044
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 47.55520611542406, 
+        "accumulated_operating_revenue": 2070021, 
+        "long_term_average": 382817, 
+        "date": "2015-05-31", 
+        "operating_revenue": 453612, 
+        "short_term_average": 431906
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 46.84989778189324, 
+        "accumulated_operating_revenue": 2526319, 
+        "long_term_average": 394387, 
+        "date": "2015-06-30", 
+        "operating_revenue": 456298, 
+        "short_term_average": 442786
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 40.902427776130715, 
+        "accumulated_operating_revenue": 2908615, 
+        "long_term_average": 397584, 
+        "date": "2015-07-31", 
+        "operating_revenue": 382296, 
+        "short_term_average": 430735
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 33.04566940872226, 
+        "accumulated_operating_revenue": 3212860, 
+        "long_term_average": 393723, 
+        "date": "2015-08-31", 
+        "operating_revenue": 304245, 
+        "short_term_average": 380946
+    }, 
+    {
+        "accumulated_operating_revenue_yoy": 26.47626087471361, 
+        "accumulated_operating_revenue": 3524710, 
+        "long_term_average": 388710, 
+        "date": "2015-09-30", 
+        "operating_revenue": 311850, 
+        "short_term_average": 332797
+    }
+]
