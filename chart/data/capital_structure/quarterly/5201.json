@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "date": "2013-12-31", 
+        "equity_multiplier": 1.2273972602739727, 
+        "liabilities_ratio": 18.526785714285715, 
+        "equity_ratio": 81.47321428571429
+    }, 
+    {
+        "date": "2014-03-31", 
+        "equity_multiplier": 1.2076502732240437, 
+        "liabilities_ratio": 17.194570135746606, 
+        "equity_ratio": 82.80542986425338
+    }, 
+    {
+        "date": "2014-06-30", 
+        "equity_multiplier": 1.3343023255813953, 
+        "liabilities_ratio": 24.836601307189543, 
+        "equity_ratio": 74.94553376906318
+    }, 
+    {
+        "date": "2014-09-30", 
+        "equity_multiplier": 1.2529411764705882, 
+        "liabilities_ratio": 20.187793427230048, 
+        "equity_ratio": 79.81220657276995
+    }, 
+    {
+        "date": "2014-12-31", 
+        "equity_multiplier": 1.2645348837209303, 
+        "liabilities_ratio": 20.919540229885058, 
+        "equity_ratio": 79.08045977011494
+    }, 
+    {
+        "date": "2015-03-31", 
+        "equity_multiplier": 1.2028169014084507, 
+        "liabilities_ratio": 16.627634660421545, 
+        "equity_ratio": 83.13817330210773
+    }, 
+    {
+        "date": "2015-06-30", 
+        "equity_multiplier": 1.3133903133903133, 
+        "liabilities_ratio": 24.07809110629067, 
+        "equity_ratio": 76.13882863340564
+    }, 
+    {
+        "date": "2015-09-30", 
+        "equity_multiplier": 1.2434017595307918, 
+        "liabilities_ratio": 19.57547169811321, 
+        "equity_ratio": 80.4245283018868
+    }
+]

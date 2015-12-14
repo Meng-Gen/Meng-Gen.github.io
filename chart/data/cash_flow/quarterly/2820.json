@@ -25,18 +25,18 @@
     }, 
     {
         "cash_flow_from_financing_activities": -3920, 
-        "accumulated_free_cash_flow": 4637, 
-        "cash_flow_from_operating_activities": 6503, 
+        "accumulated_free_cash_flow": 1821, 
+        "cash_flow_from_operating_activities": 3687, 
         "date": "2014-06-30", 
-        "free_cash_flow": 6501, 
+        "free_cash_flow": 3685, 
         "cash_flow_from_investing_activities": -2
     }, 
     {
         "cash_flow_from_financing_activities": -200, 
         "accumulated_free_cash_flow": 3694, 
-        "cash_flow_from_operating_activities": -944, 
+        "cash_flow_from_operating_activities": 1872, 
         "date": "2014-09-30", 
-        "free_cash_flow": -943, 
+        "free_cash_flow": 1873, 
         "cash_flow_from_investing_activities": 1
     }, 
     {
@@ -62,5 +62,13 @@
         "date": "2015-06-30", 
         "free_cash_flow": 2983, 
         "cash_flow_from_investing_activities": -1
+    }, 
+    {
+        "cash_flow_from_financing_activities": 443, 
+        "accumulated_free_cash_flow": -922, 
+        "cash_flow_from_operating_activities": -375, 
+        "date": "2015-09-30", 
+        "free_cash_flow": -374, 
+        "cash_flow_from_investing_activities": 1
     }
 ]

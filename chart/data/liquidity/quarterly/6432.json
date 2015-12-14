@@ -25,9 +25,16 @@
         "interest_protection_multiples": 17.0
     }, 
     {
+        "date": "2014-09-30", 
+        "current_ratio": 1.7204610951008645, 
+        "quick_ratio": 1.3256484149855907, 
+        "interest_protection_multiples": 30.0
+    }, 
+    {
         "date": "2014-12-31", 
         "current_ratio": 1.9557823129251701, 
-        "quick_ratio": 1.4421768707482994
+        "quick_ratio": 1.4421768707482994, 
+        "interest_protection_multiples": 20.0
     }, 
     {
         "date": "2015-03-31", 
@@ -38,5 +45,10 @@
         "date": "2015-06-30", 
         "current_ratio": 2.112727272727273, 
         "quick_ratio": 1.6690909090909092
+    }, 
+    {
+        "date": "2015-09-30", 
+        "current_ratio": 2.2083333333333335, 
+        "quick_ratio": 1.8055555555555556
     }
 ]

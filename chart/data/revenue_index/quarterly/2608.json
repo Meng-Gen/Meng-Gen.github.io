@@ -22,30 +22,37 @@
     }, 
     {
         "date": "2014-09-30", 
-        "accounts_payable_index": -0.08545119748670874, 
-        "inventory_index": 0.10572323136043629, 
-        "gross_profit_index": -0.2081622557506802, 
-        "accounts_receivable_index": 0.08689909785594335
+        "accounts_payable_index": 0.0002829276125879826, 
+        "inventory_index": -0.008548349149086337, 
+        "gross_profit_index": -0.10178541208326283, 
+        "accounts_receivable_index": 0.013048569977999663
     }, 
     {
         "date": "2014-12-31", 
-        "accounts_payable_index": -0.10281999165600425, 
-        "inventory_index": -0.1691038503445641, 
-        "gross_profit_index": 0.025607578596428218, 
-        "accounts_receivable_index": -0.01251603207428631
+        "accounts_payable_index": -0.24651864392064937, 
+        "inventory_index": -0.009083596975709166, 
+        "gross_profit_index": -0.12383693965999776, 
+        "accounts_receivable_index": 0.12844567836024665
     }, 
     {
         "date": "2015-03-31", 
-        "accounts_payable_index": 0.2903697420961004, 
+        "accounts_payable_index": 0.29907352340553595, 
         "inventory_index": -0.043886046157629116, 
         "gross_profit_index": 0.0022468459818435794, 
-        "accounts_receivable_index": -0.03609249046578593
+        "accounts_receivable_index": -0.05313081008267058
     }, 
     {
         "date": "2015-06-30", 
-        "accounts_payable_index": 0.2562408151922636, 
-        "inventory_index": 0.13032432863176346, 
-        "gross_profit_index": -0.010386200248159463, 
-        "accounts_receivable_index": -0.039017497270571966
+        "accounts_payable_index": 0.3203235783719353, 
+        "inventory_index": 0.06624156545209176, 
+        "gross_profit_index": 0.049831387594085966, 
+        "accounts_receivable_index": -0.10310026045024369
+    }, 
+    {
+        "date": "2015-09-30", 
+        "accounts_payable_index": -0.3397084832591327, 
+        "inventory_index": 0.06151299453732825, 
+        "gross_profit_index": -0.005756182440935134, 
+        "accounts_receivable_index": 0.10004386429848194
     }
 ]

@@ -38,27 +38,27 @@
     {
         "net_profit": -15, 
         "cash_flow_from_financing_activities": 160, 
-        "accumulated_free_cash_flow": -1663, 
-        "cash_flow_from_operating_activities": -232, 
+        "accumulated_free_cash_flow": -1662, 
+        "cash_flow_from_operating_activities": -223, 
         "date": "2014-09-30", 
-        "free_cash_flow": -196, 
-        "cash_flow_from_investing_activities": 36
+        "free_cash_flow": -195, 
+        "cash_flow_from_investing_activities": 28
     }, 
     {
         "net_profit": -14, 
         "cash_flow_from_financing_activities": 9, 
         "long_term_investments_to_assets_ratio": 0.1434720229555237, 
-        "accumulated_free_cash_flow": -1726, 
-        "cash_flow_from_operating_activities": -66, 
+        "accumulated_free_cash_flow": -1724, 
+        "cash_flow_from_operating_activities": -74, 
         "date": "2014-12-31", 
-        "free_cash_flow": -63, 
-        "cash_flow_from_investing_activities": 3
+        "free_cash_flow": -62, 
+        "cash_flow_from_investing_activities": 12
     }, 
     {
         "net_profit": 15, 
         "cash_flow_from_financing_activities": -28, 
         "long_term_investments_to_assets_ratio": 0.14376078205865442, 
-        "accumulated_free_cash_flow": -1490, 
+        "accumulated_free_cash_flow": -1488, 
         "cash_flow_from_operating_activities": 57, 
         "date": "2015-03-31", 
         "free_cash_flow": 236, 
@@ -68,10 +68,17 @@
         "net_profit": 29, 
         "cash_flow_from_financing_activities": 54, 
         "long_term_investments_to_assets_ratio": 0.14736221632773355, 
-        "accumulated_free_cash_flow": -1422, 
+        "accumulated_free_cash_flow": -1420, 
         "cash_flow_from_operating_activities": -109, 
         "date": "2015-06-30", 
         "free_cash_flow": 68, 
         "cash_flow_from_investing_activities": 177
+    }, 
+    {
+        "date": "2015-09-30", 
+        "net_profit": -11, 
+        "cash_flow_from_operating_activities": -154, 
+        "cash_flow_from_financing_activities": -100, 
+        "long_term_investments_to_assets_ratio": 0.12496094970321774
     }
 ]

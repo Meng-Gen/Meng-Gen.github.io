@@ -45,9 +45,9 @@
     }, 
     {
         "dio": 40.12340554372668, 
-        "net_profit_margin": 13.691476482174156, 
-        "net_profit_before_tax_margin": 14.66724489980304, 
-        "operating_profit_margin": 2.5008583148118033, 
+        "net_profit_margin": 13.530655391120508, 
+        "net_profit_before_tax_margin": 14.50642380874939, 
+        "operating_profit_margin": 2.497244357709474, 
         "dso": 23.097341934551235, 
         "date": "2014-09-30", 
         "dpo": 22.478732443888813, 
@@ -56,9 +56,9 @@
     }, 
     {
         "dio": 45.02885539799419, 
-        "net_profit_margin": -0.9974317625276236, 
-        "net_profit_before_tax_margin": -0.6072189372673157, 
-        "operating_profit_margin": 3.169483764359235, 
+        "net_profit_margin": -0.8222341675127914, 
+        "net_profit_before_tax_margin": -0.43003046049095145, 
+        "operating_profit_margin": 3.1734655278822994, 
         "dso": 23.377033187998965, 
         "date": "2014-12-31", 
         "dpo": 23.44901894378045, 
@@ -86,5 +86,16 @@
         "dpo": 21.502591826292022, 
         "gross_profit_margin": 11.8768012233615, 
         "ccc": 39.47814892140893
+    }, 
+    {
+        "dio": 41.3809671326484, 
+        "net_profit_margin": 22.40663900414938, 
+        "net_profit_before_tax_margin": 24.992020427705075, 
+        "operating_profit_margin": 5.89637195446324, 
+        "dso": 24.101300670284072, 
+        "date": "2015-09-30", 
+        "dpo": 20.64272996318664, 
+        "gross_profit_margin": 11.562932226832642, 
+        "ccc": 44.83953783974583
     }
 ]

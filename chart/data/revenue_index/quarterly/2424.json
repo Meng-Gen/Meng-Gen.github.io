@@ -38,5 +38,11 @@
         "accounts_receivable_index": -0.16666666666666669, 
         "inventory_index": 0.2745098039215686, 
         "selling_and_administrative_expenses_index": 0.3333333333333333
+    }, 
+    {
+        "date": "2015-09-30", 
+        "accounts_payable_index": -0.5, 
+        "inventory_index": 0.625, 
+        "selling_and_administrative_expenses_index": 0.5
     }
 ]

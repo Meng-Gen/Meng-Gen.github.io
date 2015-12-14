@@ -7,6 +7,14 @@
         "net_profit_margin": 30.864197530864196
     }, 
     {
+        "net_profit_margin": 28.35820895522388, 
+        "net_profit_before_tax_margin": 34.32835820895522, 
+        "operating_profit_margin": 28.35820895522388, 
+        "dso": 64.69216417910448, 
+        "date": "2013-12-31", 
+        "gross_profit_margin": 85.07462686567165
+    }, 
+    {
         "net_profit_margin": 15.068493150684931, 
         "net_profit_before_tax_margin": 17.80821917808219, 
         "operating_profit_margin": 17.80821917808219, 
@@ -59,5 +67,14 @@
         "date": "2015-06-30", 
         "dpo": 20.277777777777775, 
         "gross_profit_margin": 82.6923076923077
+    }, 
+    {
+        "net_profit_margin": -30.303030303030305, 
+        "net_profit_before_tax_margin": -30.303030303030305, 
+        "operating_profit_margin": -33.33333333333333, 
+        "dso": 44.24242424242424, 
+        "date": "2015-09-30", 
+        "dpo": 13.035714285714285, 
+        "gross_profit_margin": 77.27272727272727
     }
 ]

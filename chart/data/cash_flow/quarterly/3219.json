@@ -66,5 +66,11 @@
         "date": "2015-06-30", 
         "free_cash_flow": 3, 
         "cash_flow_from_investing_activities": 7
+    }, 
+    {
+        "date": "2015-09-30", 
+        "net_profit": 3, 
+        "cash_flow_from_operating_activities": -7, 
+        "cash_flow_from_financing_activities": 1
     }
 ]

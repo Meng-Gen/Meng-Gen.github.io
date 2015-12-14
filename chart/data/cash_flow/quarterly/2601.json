@@ -51,7 +51,7 @@
     }, 
     {
         "net_profit": 67, 
-        "cash_flow_from_financing_activities": -264, 
+        "cash_flow_from_financing_activities": -265, 
         "long_term_investments_to_assets_ratio": 9.303216904719319, 
         "accumulated_free_cash_flow": -1394, 
         "cash_flow_from_operating_activities": 2229, 
@@ -78,5 +78,15 @@
         "date": "2015-06-30", 
         "free_cash_flow": -31, 
         "cash_flow_from_investing_activities": 477
+    }, 
+    {
+        "net_profit": -1419, 
+        "cash_flow_from_financing_activities": 1076, 
+        "long_term_investments_to_assets_ratio": 7.843937268902206, 
+        "accumulated_free_cash_flow": -6338, 
+        "cash_flow_from_operating_activities": -1488, 
+        "date": "2015-09-30", 
+        "free_cash_flow": -1986, 
+        "cash_flow_from_investing_activities": -498
     }
 ]

@@ -43,20 +43,20 @@
         "net_profit": 252, 
         "cash_flow_from_financing_activities": -294, 
         "long_term_investments_to_assets_ratio": 16.390423572744016, 
-        "accumulated_free_cash_flow": 491, 
-        "cash_flow_from_operating_activities": -25, 
+        "accumulated_free_cash_flow": 492, 
+        "cash_flow_from_operating_activities": -46, 
         "date": "2014-09-30", 
-        "free_cash_flow": 381, 
-        "cash_flow_from_investing_activities": 406
+        "free_cash_flow": 382, 
+        "cash_flow_from_investing_activities": 428
     }, 
     {
         "net_profit": -82, 
         "long_term_investments_to_assets_ratio": 21.339173967459324, 
         "accumulated_free_cash_flow": 498, 
-        "cash_flow_from_operating_activities": -84, 
+        "cash_flow_from_operating_activities": -63, 
         "date": "2014-12-31", 
-        "free_cash_flow": 7, 
-        "cash_flow_from_investing_activities": 91
+        "free_cash_flow": 6, 
+        "cash_flow_from_investing_activities": 69
     }, 
     {
         "net_profit": -19, 
@@ -77,5 +77,15 @@
         "date": "2015-06-30", 
         "free_cash_flow": 56, 
         "cash_flow_from_investing_activities": 16
+    }, 
+    {
+        "net_profit": 59, 
+        "cash_flow_from_financing_activities": -72, 
+        "long_term_investments_to_assets_ratio": 21.690694626474443, 
+        "accumulated_free_cash_flow": 660, 
+        "cash_flow_from_operating_activities": -8, 
+        "date": "2015-09-30", 
+        "free_cash_flow": 171, 
+        "cash_flow_from_investing_activities": 179
     }
 ]

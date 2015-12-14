@@ -32,14 +32,30 @@
         "cash_flow_from_investing_activities": -5
     }, 
     {
+        "net_profit": 44, 
+        "cash_flow_from_financing_activities": 10, 
+        "long_term_investments_to_assets_ratio": 17.955878246299918, 
+        "accumulated_free_cash_flow": -79, 
+        "cash_flow_from_operating_activities": 72, 
+        "date": "2014-09-30", 
+        "free_cash_flow": 26, 
+        "cash_flow_from_investing_activities": -46
+    }, 
+    {
+        "net_profit": 17, 
+        "cash_flow_from_financing_activities": 152, 
+        "long_term_investments_to_assets_ratio": 13.948919449901767, 
+        "accumulated_free_cash_flow": -151, 
+        "cash_flow_from_operating_activities": -222, 
         "date": "2014-12-31", 
-        "long_term_investments_to_assets_ratio": 13.948919449901767
+        "free_cash_flow": -72, 
+        "cash_flow_from_investing_activities": 150
     }, 
     {
         "net_profit": 78, 
         "cash_flow_from_financing_activities": -2, 
         "long_term_investments_to_assets_ratio": 16.559139784946236, 
-        "accumulated_free_cash_flow": -96, 
+        "accumulated_free_cash_flow": -142, 
         "cash_flow_from_operating_activities": 25, 
         "date": "2015-03-31", 
         "free_cash_flow": 9, 
@@ -49,10 +65,20 @@
         "net_profit": 103, 
         "cash_flow_from_financing_activities": -114, 
         "long_term_investments_to_assets_ratio": 11.135303265940902, 
-        "accumulated_free_cash_flow": -77, 
+        "accumulated_free_cash_flow": -123, 
         "cash_flow_from_operating_activities": 79, 
         "date": "2015-06-30", 
         "free_cash_flow": 19, 
         "cash_flow_from_investing_activities": -60
+    }, 
+    {
+        "net_profit": 165, 
+        "cash_flow_from_financing_activities": 433, 
+        "long_term_investments_to_assets_ratio": 6.062087509166463, 
+        "accumulated_free_cash_flow": -5, 
+        "cash_flow_from_operating_activities": -16, 
+        "date": "2015-09-30", 
+        "free_cash_flow": 118, 
+        "cash_flow_from_investing_activities": 134
     }
 ]
