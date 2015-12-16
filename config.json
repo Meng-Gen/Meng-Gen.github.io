@@ -104,6 +104,18 @@
                     ]
                 }
             ]
+        },
+        {
+            "title" : "投資風險圖",
+            "contents" : [
+                {
+                    "title" : "投資風險圖",
+                    "charts" : [
+                        "kn_yearly_chart",
+                        "kn_quarterly_chart"
+                    ]
+                }
+            ]
         }
     ],
     "stock_categories": [

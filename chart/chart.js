@@ -966,7 +966,7 @@ function makeProfitabilityChart(stockSymbol, period) {
     AmCharts.makeChart(div, config);
 }
 
-function makeRevenueIndex(stockSymbol, period) {
+function makeRevenueIndexChart(stockSymbol, period) {
     var div = makeDivByPeriod('revenue_index', period);
     var config = {
         "type" : "serial",
@@ -1031,6 +1031,66 @@ function makeRevenueIndex(stockSymbol, period) {
                 "title" : "應付帳款指標",
                 "valueField" : "accounts_payable_index",
                 "fillAlphas" : 0.6,
+                "balloonText" : "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+            },
+        ],
+        "legend" : {
+            "align" : "center",
+            "valueAlign" : "left",
+        },
+        "chartCursor" : {
+            "zoomable" : false,
+            "cursorPosition": "mouse",
+        },
+        "balloon": {
+            "borderThickness": 1,
+            "shadowAlpha": 0
+        },
+    };
+    AmCharts.makeChart(div, config);
+}
+
+function makeKnChart(stockSymbol, period) {
+    var div = makeDivByPeriod('kn', period);
+    var config = {
+        "type" : "serial",
+        "dataLoader": {
+            "url": makeDataPathByPeriod('kn', stockSymbol, period),
+            "format": "json"
+        },
+        "categoryField" : "date",
+        "titles" : [
+            {
+                "size": 15,
+                "text": "投資風險圖" + makeTitleCommentText(period),
+            },
+        ],
+        "numberFormatter" : {
+            "precision" : 2, 
+        },
+        "valueAxes" : [
+            {
+                "id" : "left_axis",
+                "axisThickness" : 2,
+                "axisAlpha" : 1,
+                "position" : "left",
+            }, 
+        ],
+        "graphs" : [
+            {
+                "valueAxis": "left_axis",
+                "type" : "line", 
+                "title" : "Kn(最大)",
+                "valueField" : "max_kn",
+                "bullet" : "round",
+                "balloonText" : "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+            },
+            {
+                "valueAxis": "left_axis",
+                "type" : "line",
+                "title" : "Kn(最小)",
+                "valueField" : "min_kn",
+                "bullet" : "square",
                 "balloonText" : "<span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
             },
         ],

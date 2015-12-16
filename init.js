@@ -50,8 +50,10 @@ function initContentCharts() {
     makeOperatingRevenueChart(stockSymbol);
     makeProfitabilityChart(stockSymbol, 'yearly');
     makeProfitabilityChart(stockSymbol, 'quarterly');
-    makeRevenueIndex(stockSymbol, 'yearly');
-    makeRevenueIndex(stockSymbol, 'quarterly');
+    makeRevenueIndexChart(stockSymbol, 'yearly');
+    makeRevenueIndexChart(stockSymbol, 'quarterly');
+    makeKnChart(stockSymbol, 'yearly');
+    makeKnChart(stockSymbol, 'quarterly');
 }
 
 function initContent(config) {
